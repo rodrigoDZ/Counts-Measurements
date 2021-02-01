@@ -1,0 +1,112 @@
+docId,Entity,Start,End,Tag
+S0012821X13007309-1482,Hartland Shale,155,169,MeasuredEntity
+S0016236113008041-3269,values close,851,863,MeasuredEntity
+S0016236113008041-3269,SO2,1017,1020,MeasuredEntity
+S0021979713004438-2148,spectrum,207,215,MeasuredEntity
+S0021979713004438-2148,separate peaks,934,948,MeasuredEntity
+S0021979713004438-2148,change in aqueous solvation,1186,1213,MeasuredEntity
+S0021979713004438-2148,spectra slightly,1375,1391,MeasuredEntity
+S0012821X13007309-1989,values range,1030,1042,MeasuredEntity
+S0019103512003533-3299,heating efficiencies,1064,1084,MeasuredEntity
+S0019103512003533-3299,Saturn’s thermosphere,1283,1304,MeasuredEntity
+S0016236113008041-890,bed inventories,78,93,MeasuredEntity
+S0019103512003995-2760,escaping plasma can,67,86,MeasuredEntity
+S0012821X12004384-1405,Samples,602,609,MeasuredEntity
+S0012821X13002185-1217,Samples,563,570,MeasuredEntity
+S0012821X13002185-1217,Samples,884,891,MeasuredEntity
+S0012821X13002185-1217,diatomite standard,958,976,MeasuredEntity
+S0019103512004009-3488,temperature,515,526,MeasuredEntity
+S0019103512003533-4971,Saturn’s upper atmosphere,443,468,MeasuredEntity
+S0016236113008041-3186,trace elements,37,51,MeasuredEntity
+S0019103512003533-5031,exospheric temperature,239,261,MeasuredEntity
+S0019103512003533-5031,Voyager UVS data,339,355,MeasuredEntity
+S0019103512003533-5031,Saturn’s fast rotation rate,810,837,MeasuredEntity
+S0019103512003995-1910,variability ranges,184,202,MeasuredEntity
+S0019103512003995-1910,solar rotation,243,257,MeasuredEntity
+S0019103512003995-1910,-Jaffel,863,870,MeasuredEntity
+S0012821X13002185-1231,good correlation,1113,1129,MeasuredEntity
+S0012821X13002185-1231,water source δ30Si and silicic acid concentration,1204,1253,MeasuredEntity
+S0019103511004994-1565,differential intensity of electrons,1359,1394,MeasuredEntity
+S0016236113008041-3031,fuels,1414,1419,MeasuredEntity
+S0016236113008041-3031,an increase in the sorbent cycled,1485,1518,MeasuredEntity
+S0016236113008041-3031,cycles,1552,1558,MeasuredEntity
+S0019103511004994-1511,MeV. Particles,354,368,MeasuredEntity
+S0019103511004994-1511,different detectors,609,628,MeasuredEntity
+S0016236113008041-3290,Fe,403,405,MeasuredEntity
+S0019103512004009-3962,thermosphere of HD209458b,69,94,MeasuredEntity
+S0019103512004009-3962,XUV flux of HD209458b,291,312,MeasuredEntity
+S0019103512004009-3962,depths,644,650,MeasuredEntity
+S0019103512004009-3962,temperature provides a useful connection,825,865,MeasuredEntity
+S0016236113008041-3112,HNO3 acid,770,779,MeasuredEntity
+S0019103511004994-1382,plume,1160,1165,MeasuredEntity
+S0019103511004994-1382,depletion signatures,1522,1542,MeasuredEntity
+S0019103511004994-1382,ramp-like” features,1575,1594,MeasuredEntity
+S0019103512002801-1849,electrons,38,47,MeasuredEntity
+S0019103512003533-4685,noontime ionospheric plasma densities,21,58,MeasuredEntity
+S0019103512003533-4685,sub-solar point,229,244,MeasuredEntity
+S0019103512003533-4685,lines,312,317,MeasuredEntity
+S0022000014000026-18167,node,671,675,MeasuredEntity
+S0022000014000026-18167,factor of O(logn),846,863,MeasuredEntity
+S0022000014000026-18167,implementation uses 7,1254,1275,MeasuredEntity
+S0022000014000026-18167,polylogarithmic stabilization time,1644,1678,MeasuredEntity
+S0022000014000026-18167,Considering the severe fault model,2120,2154,MeasuredEntity
+S0022000014000026-18167,algorithm features,2487,2505,MeasuredEntity
+S0022000014000026-18167,final frequency/synchrony,2712,2737,MeasuredEntity
+S0022000014000026-18167,input signals,3172,3185,MeasuredEntity
+S0022000014000026-18167,node,5360,5364,MeasuredEntity
+S0022000014000026-18167,node degrees of Δ∈O(clogn),5379,5405,MeasuredEntity
+S0022000014000026-18167,constraint,6311,6321,MeasuredEntity
+S0016236113008041-3153,largest bed inventory,231,252,MeasuredEntity
+S0016236113008041-3153,e.g.,262,266,MeasuredEntity
+S0022459611006116-1195,scan time,217,226,MeasuredEntity
+S0012821X12004384-1302,samples,558,565,MeasuredEntity
+S0012821X12004384-1302,samples,1485,1492,MeasuredEntity
+S0012821X12004384-1302,samples,1708,1715,MeasuredEntity
+S0019103512004009-5507,H Lyman α transit observations,46,76,MeasuredEntity
+S0019103512003533-5251,Saturn’s upper atmosphere published until recently,30,80,MeasuredEntity
+S0019103512003533-5251,Saturn’s auroral oval of (563–624),504,538,MeasuredEntity
+S0012821X13007309-1509,gradual fall in δ13Corg,692,715,MeasuredEntity
+S0019103512004009-4007,constant value,97,111,MeasuredEntity
+S0019103512004009-4007,case,384,388,MeasuredEntity
+S0019103512004009-4007,H Lyman α emissions by excited H,390,422,MeasuredEntity
+S0019103512004009-4007,Model C1 assumes,712,728,MeasuredEntity
+S0019103512004009-4007,constant photoelectron heating efficiency,731,772,MeasuredEntity
+S0019103512004009-4007,photoelectrons,868,882,MeasuredEntity
+S0019103512004009-4007,heating efficiency,1026,1044,MeasuredEntity
+S0019103512004009-4007,Models C3,1104,1113,MeasuredEntity
+S0019103512003533-3348,global spherical grid,201,222,MeasuredEntity
+S0019103512004009-3825,heating efficiency,6,24,MeasuredEntity
+S0019103512004009-3825,heating efficiency,50,68,MeasuredEntity
+S0019103512004009-3825,ηnet varies,338,349,MeasuredEntity
+S0019103512004009-3825,heating efficiency,564,582,MeasuredEntity
+S0019103512004009-3825,depend only,640,651,MeasuredEntity
+S0019103512004009-3825,heating efficiency,721,739,MeasuredEntity
+S0019103512004009-3825,more efficient,752,766,MeasuredEntity
+S0019103512004009-3825,ηnet,993,997,MeasuredEntity
+S0019103513005058-3094,photochemical model,367,386,MeasuredEntity
+S0019103513005058-3094,soil,795,799,MeasuredEntity
+S0016236113008041-967,sorbent,63,70,MeasuredEntity
+S0019103512003533-5598,Saturn’s upper atmosphere,36,61,MeasuredEntity
+S0019103512003533-5598,exospheric,804,814,MeasuredEntity
+S0019103512003533-5598,"solar ionisation-induced hemispheric differences in atmospheric conductivity should similarly affect the magnetosphere, highlighting an interesting Sun–atmosphere–magnetosphere coupling chain that deserves more thorough examination in future studies.",1342,1592,MeasuredEntity
+S0019103512004009-4492,isothermal sonic point,213,235,MeasuredEntity
+S0019103512004009-4492,=,655,656,MeasuredEntity
+S0019103512003995-3548,H Lyman α transit observations,42,72,MeasuredEntity
+S0019103512003995-3548,H layer,304,311,MeasuredEntity
+S0019103512003995-3548,data,547,551,MeasuredEntity
+S0019103512004009-5019,H and H+,797,805,MeasuredEntity
+S0021979713004438-1969,solution,165,173,MeasuredEntity
+S0012821X13007309-1605,succession,708,718,MeasuredEntity
+S0012821X13007309-1605,δ13Ccarb records,1169,1185,MeasuredEntity
+S0019103512003995-1807,spectrum of HD209458b,713,734,MeasuredEntity
+S0012821X12004384-1415,high proportions,78,94,MeasuredEntity
+S0019103512003533-5072,Saturn,378,384,MeasuredEntity
+S0016236113008041-3207,Elemental impurities,0,20,MeasuredEntity
+S0016236113008041-3207,possible locations,32,50,MeasuredEntity
+S0016236113008041-3171,concentration,608,621,MeasuredEntity
+S0019103513005058-1737,soil,81,85,MeasuredEntity
+S0012821X13002185-1200,Sediments,0,9,MeasuredEntity
+S0012821X13002185-1200,Sponge δ30Si,734,746,MeasuredEntity
+S0019103512002801-1824,Enceladus,141,150,MeasuredEntity
+S0019103512002801-1927,growth time,197,208,MeasuredEntity
+S0019103512002801-1927,rate reduces,350,362,MeasuredEntity

@@ -1,0 +1,78 @@
+docId,Entity,Start,End,Tag
+S0019103512002801-1927,growth time,197,208,MeasuredProperty
+S0019103512004009-5019,temperature,325,336,MeasuredProperty
+S0019103513005058-1737,density,86,93,MeasuredProperty
+S0019103513005058-1737,depth,142,147,MeasuredProperty
+S0019103512004009-5507,mean temperature,214,230,MeasuredProperty
+S0021979713004438-1415,controlled,331,341,MeasuredProperty
+S0016236113008041-3112,stack sample,304,316,MeasuredProperty
+S0019103512003995-3548,mean temperature,317,333,MeasuredProperty
+S0019103512003995-3548,boundary pressure,630,647,MeasuredProperty
+S0019103512003995-3548,mean temperature,831,847,MeasuredProperty
+S0016236113008041-3290,concentrations,185,199,MeasuredProperty
+S0016236113008041-3290,concentrations,367,381,MeasuredProperty
+S0019103512003533-5031,occultations,204,216,MeasuredProperty
+S0012821X12004384-1594,increase,18,26,MeasuredProperty
+S0019103512003533-5598,majority of ionisation,206,228,MeasuredProperty
+S0019103512003533-5598,averaged,828,836,MeasuredProperty
+S0019103512003533-5598,summer polar region),860,880,MeasuredProperty
+S0019103512003533-5598,stronger,1098,1106,MeasuredProperty
+S0019103512003533-5598,stronger,1233,1241,MeasuredProperty
+S0012821X13002185-1231,differences,608,619,MeasuredProperty
+S0012821X13002185-1231,slight negative offset of,818,843,MeasuredProperty
+S0012821X13002185-1231,size fractions,1729,1743,MeasuredProperty
+S0016236113008041-3269,concentrations,1021,1035,MeasuredProperty
+S0019103511004994-1511,rate,1764,1768,MeasuredProperty
+S0019103511004994-1511,"priority channels instead of 86 s for a given pointing/pitch angle). This enables us to measure small-scale, short-lived features in the data set.",1796,1942,MeasuredProperty
+S0022459611006116-1195,step size,192,201,MeasuredProperty
+S0022459611006116-1195,scan time,217,226,MeasuredProperty
+S0012821X13002185-1217,NaOH,129,133,MeasuredProperty
+S0019103512004009-3825,maximum temperature,223,242,MeasuredProperty
+S0019103512004009-3825,p,320,321,MeasuredProperty
+S0019103512004009-3488,level,188,193,MeasuredProperty
+S0019103512004009-3488,density,654,661,MeasuredProperty
+S0019103512004009-3488,level,819,824,MeasuredProperty
+S0019103512004009-3488,density,863,870,MeasuredProperty
+S0016236113008041-3186,concentrations,19,33,MeasuredProperty
+S0016236113008041-3186,concentrations,94,108,MeasuredProperty
+S0021979713004438-1969,NaOH,358,362,MeasuredProperty
+S0021979713004438-1969,scanned,485,492,MeasuredProperty
+S0019103512003995-2760,velocity,421,429,MeasuredProperty
+S0019103512003995-2760,velocity,466,474,MeasuredProperty
+S0021979713004438-1907,injection,945,954,MeasuredProperty
+S0012821X13002185-1200,sample,307,313,MeasuredProperty
+S0019103512003995-1910,variability,184,195,MeasuredProperty
+S0019103512003995-1910,period,233,239,MeasuredProperty
+S0012821X13002185-1061,sheets enveloped Antarctica,111,138,MeasuredProperty
+S0019103512003995-1807,wavelengths,738,749,MeasuredProperty
+S0019103512003995-1807,level,853,858,MeasuredProperty
+S0019103513005058-3094,time,885,889,MeasuredProperty
+S0019103513005058-3094,SO42-,1041,1046,MeasuredProperty
+S0019103513005058-3094,ClO4-,1487,1492,MeasuredProperty
+S0019103512004009-3962,mean temperature,35,51,MeasuredProperty
+S0019103512004009-3962,p0,100,102,MeasuredProperty
+S0019103512004009-3962,ηnet,258,262,MeasuredProperty
+S0019103512004009-3962,times,321,326,MeasuredProperty
+S0012821X13007309-1605,thick,798,803,MeasuredProperty
+S0012821X13007309-1605,taken,1313,1318,MeasuredProperty
+S0012821X13007309-1605,pre-OAE 2,1575,1584,MeasuredProperty
+S0019103512004009-4492,T0,411,413,MeasuredProperty
+S0019103511004994-1382,taken,756,761,MeasuredProperty
+S0019103511004994-1382,density,1223,1230,MeasuredProperty
+S0019103512003533-5251,auroral oval,513,525,MeasuredProperty
+S0019103512003533-5251,auroral temperatures,620,640,MeasuredProperty
+S0012821X12004384-1599,depth,318,323,MeasuredProperty
+S0012821X13007309-1509,level,375,380,MeasuredProperty
+S0012821X13007309-1509,OAE,594,597,MeasuredProperty
+S0022459611006116-1160,synthesis of Mg3NF3,335,354,MeasuredProperty
+S0022459611006116-1160,below:(1)Mg3N2+,396,411,MeasuredProperty
+S0019103511004994-1565,nominal energy passbands,469,493,MeasuredProperty
+S0019103512002801-1849,level,130,135,MeasuredProperty
+S0021979713004438-2148,FeCl3,138,143,MeasuredProperty
+S0019103512002801-1608,velocity,72,80,MeasuredProperty
+S0019103513005058-4210,average depth,126,139,MeasuredProperty
+S0019103513005058-4210,concentrations,448,462,MeasuredProperty
+S0019103512004009-4007,net heating efficiency ηnet,54,81,MeasuredProperty
+S0016236113008041-3153,ICP-MS flue gas,11,26,MeasuredProperty
+S0016236113008041-3153,concentrations,365,379,MeasuredProperty
+S0016236113008041-3171,concentrations,17,31,MeasuredProperty
