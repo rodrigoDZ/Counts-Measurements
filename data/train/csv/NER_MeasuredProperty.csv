@@ -1,0 +1,511 @@
+docId,Entity,Start,End,Tag
+S0019103512004009-5033,transition,9,19,MeasuredProperty
+S0019103512004009-5033,transition,147,157,MeasuredProperty
+S0019103512004009-5033,temperature,361,372,MeasuredProperty
+S0019103512004009-5033,level,388,393,MeasuredProperty
+S0019103512004009-5033,p0,544,546,MeasuredProperty
+S0019103512004009-5033,T0,562,564,MeasuredProperty
+S0019103512004009-5033,transition,674,684,MeasuredProperty
+S0927024813002420-1202,photocurrents,284,297,MeasuredProperty
+S0927024813002420-1202,power conversion efficiency,441,468,MeasuredProperty
+S016412121300188X-4436,produce the same backward slice as well as the same forward slice,369,434,MeasuredProperty
+S0925443913003037-654,age,25,28,MeasuredProperty
+S175058361300203X-1280,density,103,110,MeasuredProperty
+S175058361300203X-1280,Vp,185,187,MeasuredProperty
+S2213671113000738-684,CD8+ killer T cells,1266,1285,MeasuredProperty
+S016412121300188X-4640,coherent cluster,32,48,MeasuredProperty
+S0006322312001096-1278,age,442,445,MeasuredProperty
+S0378383912000130-3662,response,81,89,MeasuredProperty
+S175058361300203X-1556,Seismic amplitude differences between the 38 °C and 34 °C scenarios,586,653,MeasuredProperty
+S0006322312001096-1221,absolute increase,312,329,MeasuredProperty
+S0006322312001096-1221,odds ratio,483,493,MeasuredProperty
+S0006322312001096-1221,increase,512,520,MeasuredProperty
+S0006322312001096-1221,odds ratios,645,656,MeasuredProperty
+S1873506113001116-1204,cultured on E8 feeder-free conditions,323,360,MeasuredProperty
+S1873506113001116-1204,survived and formed convex dish-shaped aggregates,541,590,MeasuredProperty
+S1873506113001116-1204,rate,819,823,MeasuredProperty
+S1873506113001116-1204,TRA-1–60+,918,927,MeasuredProperty
+S1873506113001116-1204,CD34+CD45+ HPCs,1243,1258,MeasuredProperty
+S1873506113001116-1204,treatment,1391,1400,MeasuredProperty
+S2213671113000921-1279,gene targeting rates,252,272,MeasuredProperty
+S0021979713004438-1401,NaOH,119,123,MeasuredProperty
+S0021979713004438-1401,contact angle,784,797,MeasuredProperty
+S0021979713004438-1401,open circuit potential,842,864,MeasuredProperty
+S0960148113005727-1181,output,131,137,MeasuredProperty
+S0032063312002437-627,mass channel number,385,404,MeasuredProperty
+S0019103513005058-4175,SO4,154,157,MeasuredProperty
+S0019103513005058-4175,soluble sulfate,187,202,MeasuredProperty
+S0019103513005058-4175,SO3,334,337,MeasuredProperty
+S0019103513005058-4175,S,348,349,MeasuredProperty
+S0019103513005058-4175,average sulfur content,519,541,MeasuredProperty
+S016412121300188X-4937,coherent clusters,562,579,MeasuredProperty
+S0006322312001096-1275,response,15,23,MeasuredProperty
+S0927024813002420-1032,C60,441,444,MeasuredProperty
+S0927024813002420-1032,thickness,451,460,MeasuredProperty
+S1873506113001116-710,Light microscope image,66,88,MeasuredProperty
+S1873506113001116-710,expanded in static suspension culture,231,268,MeasuredProperty
+S1873506113001116-710,n,295,296,MeasuredProperty
+S1873506113001116-710,n,329,330,MeasuredProperty
+S0012821X13007309-1691,thick,151,156,MeasuredProperty
+S0012821X13007309-1691,beneath the Bonarelli,344,365,MeasuredProperty
+S0012821X13007309-1691,narrow variation in background values prior to OAE 2,483,535,MeasuredProperty
+S0012821X13007309-1691,shift,612,617,MeasuredProperty
+S0006322312001096-1177,established,79,90,MeasuredProperty
+S0006322312001096-1177,aged,255,259,MeasuredProperty
+S0006322312001096-1177,recruitment,313,324,MeasuredProperty
+S0006322312001096-1177,response,372,380,MeasuredProperty
+S0006322312001096-1177,taken place,524,535,MeasuredProperty
+S0006322312001096-1177,n,588,589,MeasuredProperty
+S0006322312001096-1177,n,622,623,MeasuredProperty
+S0006322312001096-1177,n,656,657,MeasuredProperty
+S0006322312001096-1177,n,694,695,MeasuredProperty
+S0378383911001669-1112,gravel,93,99,MeasuredProperty
+S2211124713006475-1195,dispersed,500,509,MeasuredProperty
+S0167819113001051-1550,conventional unit deadlocked,50,78,MeasuredProperty
+S1387700313001822-661,negative band,435,448,MeasuredProperty
+S1387700313001822-661,negative band,582,595,MeasuredProperty
+S0012821X12004384-1249,core depth,525,535,MeasuredProperty
+S0012821X12004384-1249,becomes finely laminated,724,748,MeasuredProperty
+S0167819113001051-1247,improve the usability,284,305,MeasuredProperty
+S0927024813001955-679,thin,2,6,MeasuredProperty
+S0927024813001955-679,electron mobility,302,319,MeasuredProperty
+S0927024813001955-679,transmittance to visible light,354,384,MeasuredProperty
+S0927024813001955-679,maintained,626,636,MeasuredProperty
+S2211124712002884-1060,fetal bovine serum,660,678,MeasuredProperty
+S2211124712002884-1060,penicillin/streptomycin,713,736,MeasuredProperty
+S0019103511004994-1399,distance,80,88,MeasuredProperty
+S0019103511004994-1399,radius REnc,221,232,MeasuredProperty
+S0019103511004994-1399,first flybys,480,492,MeasuredProperty
+S0019103511004994-1399,orbit around Saturn,715,734,MeasuredProperty
+S0019103511004994-1399,flown by Enceladus 14 times,756,783,MeasuredProperty
+S0032386113005454-2865,mean diameter,598,611,MeasuredProperty
+S0032386113005454-2865,mean diameter,697,710,MeasuredProperty
+S0032386113005454-2865,cavitated,1736,1745,MeasuredProperty
+S0006322312001096-1271,sensitivity and specificity,825,852,MeasuredProperty
+S1388248113001951-339,charged,99,106,MeasuredProperty
+S1388248113001951-339,rate,121,125,MeasuredProperty
+S1388248113001951-339,rates,173,178,MeasuredProperty
+S0167880913001229-1304,p,325,326,MeasuredProperty
+S0167880913001229-1304,depth,447,452,MeasuredProperty
+S0167880913001229-1304,r2,458,460,MeasuredProperty
+S0167880913001229-1304,p,469,470,MeasuredProperty
+S0167880913001229-1304,depth,678,683,MeasuredProperty
+S0019103512001388-1070,taken,31,36,MeasuredProperty
+S0019103512001388-1070,should have crossed the central meridian,549,589,MeasuredProperty
+S0921818113002245-1571,thin,195,199,MeasuredProperty
+S0921818113002245-1571,long,638,642,MeasuredProperty
+S0921818113002245-1571,internal diameter,696,713,MeasuredProperty
+S0921818113002245-1571,depth,882,887,MeasuredProperty
+S0921818113002245-1571,long,1035,1039,MeasuredProperty
+S0921818113002245-1571,depth,1094,1099,MeasuredProperty
+S0921818113002245-1571,depth,1218,1223,MeasuredProperty
+S0019103512004009-2821,dissociate,897,907,MeasuredProperty
+S0019103512004009-2821,mean (pressure averaged) temperature,1706,1742,MeasuredProperty
+S0019103512004009-2821,average solar XUV flux,1798,1820,MeasuredProperty
+S0927024813002961-1051,variation,1636,1645,MeasuredProperty
+S2211124712002884-682,PGRN,59,63,MeasuredProperty
+S0022399913003358-931,prevalence,446,456,MeasuredProperty
+S0022399913003358-931,10 year incidence rate,529,551,MeasuredProperty
+S0022399913003358-931,severely affected by their tinnitus,631,666,MeasuredProperty
+S0032063312003054-2467,category-4 still make up the second largest group and when added together with category-2,620,709,MeasuredProperty
+S0167880913001229-1225,p,224,225,MeasuredProperty
+S0167880913001229-1225,depth,296,301,MeasuredProperty
+S0167880913001229-1225,period,318,324,MeasuredProperty
+S0167880913001229-1225,p,444,445,MeasuredProperty
+S0167880913001229-1225,depth,504,509,MeasuredProperty
+S0921818113002245-859,deepest point,156,169,MeasuredProperty
+S0006322312001096-1230,developed such symptoms,387,410,MeasuredProperty
+S0006322312001096-1230,had such symptoms at follow-up,460,490,MeasuredProperty
+S0006322312001096-1230,started such medication,542,565,MeasuredProperty
+S0006322312001096-1230,used antidepressant medication,602,632,MeasuredProperty
+S0006322312001096-1230,also had CES-D depressive symptoms,757,791,MeasuredProperty
+S0006322312001096-1230,r,824,825,MeasuredProperty
+S0006322312001096-1230,p,833,834,MeasuredProperty
+S0006322312001096-1230,also had GHQ symptoms,913,934,MeasuredProperty
+S030881461301604X-1002,concentrations,90,104,MeasuredProperty
+S0022459611006116-1448,temperature,80,91,MeasuredProperty
+S2213671113000738-738,withdrawn,528,537,MeasuredProperty
+S2213671113000738-738,expression of MHC-I,780,799,MeasuredProperty
+S2213671113000738-738,accumulated in the allografts,1054,1083,MeasuredProperty
+S2213671113000738-738,expression of HLA-I during neural differentiation of human ESCs (hESCs) and iPSCs,1774,1855,MeasuredProperty
+S2211124712002884-649,Intracellular PGRN levels,4,29,MeasuredProperty
+S2211124712002884-649,n,123,124,MeasuredProperty
+S0032063312003054-2483,acceleration,21,33,MeasuredProperty
+S2213158213000302-1597,roving oddball paradigm (Garrido et al.,435,474,MeasuredProperty
+S0022399913003358-943,with chronic tinnitus,1486,1507,MeasuredProperty
+S0927775713009606-1216,step size,149,158,MeasuredProperty
+S0927775713009606-1216,counting time,173,186,MeasuredProperty
+S0927775713009606-1216,K,379,380,MeasuredProperty
+S0006322312001096-1253,before the age,302,316,MeasuredProperty
+S0006322312001096-1205,taken any medication,74,94,MeasuredProperty
+S0019103512003995-1283,mean temperature,129,145,MeasuredProperty
+S0038071712001010-1044,lasted,2598,2604,MeasuredProperty
+S0378383912000130-3601,involved,346,354,MeasuredProperty
+S0378383912000130-3601,nominal sediment diameters,380,406,MeasuredProperty
+S0378383912000130-3601,initial water depth,494,513,MeasuredProperty
+S0378383912000130-3601,level,664,669,MeasuredProperty
+S0378383912000130-3601,level,733,738,MeasuredProperty
+S0378383912000130-3601,slope,895,900,MeasuredProperty
+S0927024813001955-1005,post-annealing,591,605,MeasuredProperty
+S0927024813001955-1005,visible light transmittance,777,804,MeasuredProperty
+S0168945213001805-4775,withstand winter temperatures,598,627,MeasuredProperty
+S0168945213001805-4775,stable tolerance,885,901,MeasuredProperty
+S2213671113000738-445,Incubation,66,76,MeasuredProperty
+S0378112713005288-1720,altitudes,351,360,MeasuredProperty
+S0378112713005288-1720,regeneration densities,590,612,MeasuredProperty
+S2213158213000582-1340,examined activity,81,98,MeasuredProperty
+S2213158213000582-1340,average percent variance explained,225,259,MeasuredProperty
+S2213158213000582-1340,average percent variance explained,335,369,MeasuredProperty
+S2213158213000582-1340,t(39),534,539,MeasuredProperty
+S2213158213000582-1340,p,548,549,MeasuredProperty
+S2213158213000582-1340,t(39),580,585,MeasuredProperty
+S2213158213000582-1340,p,594,595,MeasuredProperty
+S1550413113004920-1509,diagnosed with permanent diabetes,134,167,MeasuredProperty
+S1550413113004920-1509,diagnosed with permanent diabetes,199,232,MeasuredProperty
+S2213671113000738-435,n,104,105,MeasuredProperty
+S2213671113000738-435,Scale bars,182,192,MeasuredProperty
+S0019103512002801-2018,self-pick up process has been shown to lead to,1304,1350,MeasuredProperty
+S1389128612002496-6119,decreases,194,203,MeasuredProperty
+S0167577X14001256-517,laser energy,339,351,MeasuredProperty
+S0167577X14001256-517,laser-pulse repetition rate,369,396,MeasuredProperty
+S0167577X14001256-517,DC bias voltage,411,426,MeasuredProperty
+S0167577X14001256-517,specimen temperature,444,464,MeasuredProperty
+S0167577X14001256-517,DC voltage,713,723,MeasuredProperty
+S0165587612003680-998,culture-positive,333,349,MeasuredProperty
+S0165587612003680-998,confocal-positive,351,368,MeasuredProperty
+S0165587612003680-998,biofilm,374,381,MeasuredProperty
+S0165587612003680-998,p,563,564,MeasuredProperty
+S0032386113005454-2308,tensile modulus,2,17,MeasuredProperty
+S0032386113005454-2308,modulus,88,95,MeasuredProperty
+S0032386113005454-2308,were added,207,217,MeasuredProperty
+S0012821X12004384-1178,rise,169,173,MeasuredProperty
+S0012821X12004384-1178,substantial injection,276,297,MeasuredProperty
+S0012821X12004384-1178,negative carbon isotope,424,447,MeasuredProperty
+S0012821X12004384-1178,lasting,559,566,MeasuredProperty
+S0012821X12004384-1178,δ13C,947,951,MeasuredProperty
+S0012821X13002185-994,siliceous walled autotrophs,316,343,MeasuredProperty
+S0012821X13002185-994,rise,900,904,MeasuredProperty
+S0012821X13002185-994,decline,1083,1090,MeasuredProperty
+S0012821X13002185-994,peaked,1298,1304,MeasuredProperty
+S0032386113009889-2123,applied uniaxial stress,974,997,MeasuredProperty
+S0032386113009889-2123,hydrostatic stress,1034,1052,MeasuredProperty
+S0032386113009889-2123,applied hydrostatic stress,1155,1181,MeasuredProperty
+S0378112713005288-1948,"F(3, 8.9)",237,246,MeasuredProperty
+S0378112713005288-1948,p,254,255,MeasuredProperty
+S0378112713005288-1948,variation between the different site types,312,354,MeasuredProperty
+S0378112713005288-1948,p,481,482,MeasuredProperty
+S0378112713005288-1948,"F(1, 3.95)",753,763,MeasuredProperty
+S0378112713005288-1948,p,772,773,MeasuredProperty
+S1389128612002496-6138,decreases,191,200,MeasuredProperty
+S0006322312001096-626,Increase,52,60,MeasuredProperty
+S0006322312001096-626,Age,123,126,MeasuredProperty
+S0167577X13006393-644,reported to occur,42,59,MeasuredProperty
+S0167577X13006393-644,ratio,230,235,MeasuredProperty
+S0167577X13006393-644,temperatures,290,302,MeasuredProperty
+S0167577X13006393-644,at temperatures,354,369,MeasuredProperty
+S1161030113001950-923,maximum yield for the year,1732,1758,MeasuredProperty
+S1161030113001950-923,period of time,1844,1858,MeasuredProperty
+S0925443913003037-1397,level,387,392,MeasuredProperty
+S0012821X12004384-1265,Each slide was produced,483,506,MeasuredProperty
+S0012821X12004384-1265,initial weight,563,577,MeasuredProperty
+S0012821X12004384-1265,fractions,1124,1133,MeasuredProperty
+S0012821X12004384-1265,amorphous organic matter (AOM),1201,1231,MeasuredProperty
+S1750583613004192-714,injected,136,144,MeasuredProperty
+S1750583613004192-714,first appeared,361,375,MeasuredProperty
+S1750583613004192-714,migrated,413,421,MeasuredProperty
+S0032063312003054-1990,time,82,86,MeasuredProperty
+S0032063312003054-1990,over,171,175,MeasuredProperty
+S0032063312003054-1990,energy,300,306,MeasuredProperty
+S2213671113001306-1404,sacrificed and perfusion-fixed,13,43,MeasuredProperty
+S2213671113001306-1404,survival,576,584,MeasuredProperty
+S2213671113001306-1404,survival,1065,1073,MeasuredProperty
+S2213671113001306-1404,survival,1472,1480,MeasuredProperty
+S1750583613004192-1267,gas saturation,601,615,MeasuredProperty
+S1750583613004192-1267,upper limit,808,819,MeasuredProperty
+S1750583613004192-1267,lower limit,862,873,MeasuredProperty
+S0019103512003995-1767,line,248,252,MeasuredProperty
+S0925443913001385-1429,fetal calf serum (FCS),124,146,MeasuredProperty
+S0925443913001385-1429,l-glutamine,153,164,MeasuredProperty
+S0925443913001385-1429,pyruvate,194,202,MeasuredProperty
+S0925443913001385-1429,penicillin G,216,228,MeasuredProperty
+S0925443913001385-1429,streptomycin,246,258,MeasuredProperty
+S0019103512003995-3420,density,12,19,MeasuredProperty
+S0019103512003995-2737,stronger,115,123,MeasuredProperty
+S0019103512003995-2737,loss rates,798,808,MeasuredProperty
+S0019103512003995-2737,loss,840,844,MeasuredProperty
+S0019103512003995-2737,energy inputs,956,969,MeasuredProperty
+S0378112713005288-2062,weigh,388,393,MeasuredProperty
+S0378112713005288-2062,weigh,497,502,MeasuredProperty
+S1359645413009816-2243,nominal resolution,130,148,MeasuredProperty
+S1359645413009816-2243,heating rate,499,511,MeasuredProperty
+S1359645413009816-2243,rapid cooling to ambient temperature at a rate,536,582,MeasuredProperty
+S0167880913001229-1021,decreased,12,21,MeasuredProperty
+S095741741101342X-2624,good,90,94,MeasuredProperty
+S095741741101342X-2624,bad class,100,109,MeasuredProperty
+S0960148113004989-3203,P,434,435,MeasuredProperty
+S0960148113004989-3203,time step of Δt,548,563,MeasuredProperty
+S0927775713009606-1361,ionic radius,61,73,MeasuredProperty
+S0927775713009606-1361,internal cavity,190,205,MeasuredProperty
+S0927775713009606-1361,distances,516,525,MeasuredProperty
+S2213671113000921-994,found to carry the GFP-Neo cassette in the SOX2 locus,498,551,MeasuredProperty
+S2213671113000921-994,percentage of GFP-positive (GFP+) cells,1400,1439,MeasuredProperty
+S2213671113000921-994,expressed SOX2 protein,1569,1591,MeasuredProperty
+S0960148113002048-3775,frequencies,698,709,MeasuredProperty
+S0960148113002048-3775,frequencies,973,984,MeasuredProperty
+S0019103512002801-1716,stronger,133,141,MeasuredProperty
+S0960148113004989-3277,one P,122,127,MeasuredProperty
+S0960148113004989-3277,time step of Δt,160,175,MeasuredProperty
+S0378383911001669-1634,Fluorescent dye,85,100,MeasuredProperty
+S0378383911001669-1634,fixed focal length,336,354,MeasuredProperty
+S0378383911001669-1634,slope,429,434,MeasuredProperty
+S0019103513005058-4349,increments,204,214,MeasuredProperty
+S0019103513005058-4349,deposition rate,320,335,MeasuredProperty
+S0019103513005058-4158,1/e mixing depth,684,700,MeasuredProperty
+S0019103513005058-4158,depth,777,782,MeasuredProperty
+S0019103513005058-4158,density,847,854,MeasuredProperty
+S0038071712001010-918,P,55,56,MeasuredProperty
+S0038071712001010-918,LSD,232,235,MeasuredProperty
+S0038071712001010-918,percentage colonisation,359,382,MeasuredProperty
+S0038071712001010-918,Percentage colonisation,522,545,MeasuredProperty
+S0038071712001010-918,Colonisation,711,723,MeasuredProperty
+S0950705113001895-23699,increases,552,561,MeasuredProperty
+S0006322312001096-1260,aged,228,232,MeasuredProperty
+S0006322312001096-1260,incidence,410,419,MeasuredProperty
+S0006322312001096-1260,followed up,637,648,MeasuredProperty
+S0032063312003054-2264,DEF,245,248,MeasuredProperty
+S0032063312003054-2264,gyroradius,471,481,MeasuredProperty
+S0032063312003054-2264,energies,501,509,MeasuredProperty
+S0032063312003054-2264,horizontal size,638,653,MeasuredProperty
+S0165587612003680-1078,isolated,702,710,MeasuredProperty
+S0165587612003680-1078,CoNS,916,920,MeasuredProperty
+S0927024813002961-1334,irradiance range,796,812,MeasuredProperty
+S0038071712001010-944,G. mosseae plus G. intraradices combination,133,176,MeasuredProperty
+S0038071712001010-944,P,283,284,MeasuredProperty
+S1359645413009816-2973,T,1114,1115,MeasuredProperty
+S0012821X12004384-1148,paleolatitude,272,285,MeasuredProperty
+S0165587612003680-953,biofilms have been identified on human middle ear mucosa,193,249,MeasuredProperty
+S175058361300203X-1483,effective porosities,1013,1033,MeasuredProperty
+S0012821X12004384-1232,deep,22,26,MeasuredProperty
+S0012821X12004384-1232,thin,301,305,MeasuredProperty
+S0012821X12004384-1232,fall in,507,514,MeasuredProperty
+S0168945213001805-4454,increased net photosynthesis,418,446,MeasuredProperty
+S0168945213001805-4454,increased biomass yield,551,574,MeasuredProperty
+S0006322312001096-1248,odds,573,577,MeasuredProperty
+S1389128612002496-5994,RED drops,292,301,MeasuredProperty
+S1389128612002496-5994,DropTail,344,352,MeasuredProperty
+S0019103513005058-4098,increased,408,417,MeasuredProperty
+S0019103513005058-4098,increase,453,461,MeasuredProperty
+S0167577X13006393-399,C3O characteristic bands,148,172,MeasuredProperty
+S0167577X13006393-399,ν1 vibration mode,284,301,MeasuredProperty
+S0167577X13006393-399,ν3 vibration mode,321,338,MeasuredProperty
+S0012821X12004384-952,wood/plant tissue,254,271,MeasuredProperty
+S0012821X12004384-952,wood/plant tissue,385,402,MeasuredProperty
+S0167739X12001525-5094,storage action has been added yet (storage,427,469,MeasuredProperty
+S0167739X12001525-5094,vmID,611,615,MeasuredProperty
+S0167739X12001525-5094,storage exceeds TThighr,752,775,MeasuredProperty
+S0167739X12001525-5094,line,1367,1371,MeasuredProperty
+S0167739X12001525-5094,follow the same pattern as described here and in Fig. 4 for rules,1597,1662,MeasuredProperty
+S0006322312001096-1136,mean age,224,232,MeasuredProperty
+S0006322312001096-1136,women,249,254,MeasuredProperty
+S0006322312001096-1136,score,570,575,MeasuredProperty
+S2211124713006475-841,after transplantation,59,80,MeasuredProperty
+S0006322312001096-1197,scored,396,402,MeasuredProperty
+S0006322312001096-1197,score,470,475,MeasuredProperty
+S0006322312001096-1197,scores,547,553,MeasuredProperty
+S0006322312001096-1197,sensitive,721,730,MeasuredProperty
+S0006322312001096-1197,specific,741,749,MeasuredProperty
+S0006322312001096-1197,sensitivity,1005,1016,MeasuredProperty
+S0006322312001096-1197,specificity,1027,1038,MeasuredProperty
+S0006322312001096-1197,aged,1116,1120,MeasuredProperty
+S0006322312001096-1197,sensitivity,1143,1154,MeasuredProperty
+S0006322312001096-1197,specificity,1159,1170,MeasuredProperty
+S0378383912000130-1096,x,135,136,MeasuredProperty
+S0168945213001805-5026,net growth,181,191,MeasuredProperty
+S0032063313003218-6651,maxima,517,523,MeasuredProperty
+S0032063313003218-6651,boundary between open (region I) and closed field lines (region II),614,681,MeasuredProperty
+S0032063313003218-6651,auroral oval,726,738,MeasuredProperty
+S0032063313003218-6651,electron energy flux,787,807,MeasuredProperty
+S0032063313003218-6651,observable polar emission (region II/I boundary),971,1019,MeasuredProperty
+S2213671113001306-1286,survived,96,104,MeasuredProperty
+S0019103511004994-996,assumed surface velocity,300,324,MeasuredProperty
+S0019103513005058-3154,perchlorate (ClO4-),327,346,MeasuredProperty
+S0019103513005058-3154,sensitive to nitrate,787,807,MeasuredProperty
+S0019103513005058-3154,perchlorate,1647,1658,MeasuredProperty
+S0019103513005058-3154,Native perchlorate,1808,1826,MeasuredProperty
+S2213158213000582-1327,voxels,821,827,MeasuredProperty
+S1359835X13001875-1359,side length,68,79,MeasuredProperty
+S1359835X13001875-1359,density,205,212,MeasuredProperty
+S0006322312001096-1190,taken,643,648,MeasuredProperty
+S0006322312001096-1190,refrigerated,754,766,MeasuredProperty
+S0006322312001096-1190,assayed,779,786,MeasuredProperty
+S0006322312001096-1190,taken,1207,1212,MeasuredProperty
+S0006322312001096-1190,mean coefficient of variation,1410,1439,MeasuredProperty
+S0927775713009606-1074,pore diameters,834,848,MeasuredProperty
+S0927775713009606-1074,Vmeso,858,863,MeasuredProperty
+S0927775713009606-1074,SBET,898,902,MeasuredProperty
+S0927775713009606-1074,characterised,1012,1025,MeasuredProperty
+S0927775713009606-1074,ratio,1193,1198,MeasuredProperty
+S0019103512001388-3081,fractional integrated differential brightness of BS1,25,77,MeasuredProperty
+S0019103512001388-3081,declined,166,174,MeasuredProperty
+S0006322312001096-1202,0,416,417,MeasuredProperty
+S0006322312001096-1202,1,439,440,MeasuredProperty
+S0006322312001096-1202,2,453,454,MeasuredProperty
+S0006322312001096-1202,3,471,472,MeasuredProperty
+S0006322312001096-1202,scoring,568,575,MeasuredProperty
+S0006322312001096-1202,sensitivity,686,697,MeasuredProperty
+S0006322312001096-1202,specificity,702,713,MeasuredProperty
+S2213671113001306-1520,visual-field setting,319,339,MeasuredProperty
+S2213671113001306-1520,distance between,397,413,MeasuredProperty
+S2213671113001306-1520,visual field,466,478,MeasuredProperty
+S2213671113001306-1520,corneal curvature settings,576,602,MeasuredProperty
+S2213671113001306-1520,visual field,696,708,MeasuredProperty
+S0167880913001229-1033,depth,95,100,MeasuredProperty
+S0960148113004989-3258,minimum distance,160,176,MeasuredProperty
+S0960148113004989-3258,extracts,345,353,MeasuredProperty
+S016412121300188X-4069,contains,45,53,MeasuredProperty
+S016412121300188X-4069,represented,73,84,MeasuredProperty
+S016412121300188X-4069,large plateau,154,167,MeasuredProperty
+S2211124712002884-1110,grown as embryoid bodies (EBs) in suspension,58,102,MeasuredProperty
+S2211124712002884-1110,old,225,228,MeasuredProperty
+S2211124712002884-1110,dissociated,312,323,MeasuredProperty
+S2211124712002884-1110,used,488,492,MeasuredProperty
+S0378112713005288-2036,majority of oak regeneration,629,657,MeasuredProperty
+S0019103513005058-4302,input of odd nitrogen,544,565,MeasuredProperty
+S0019103513005058-4302,accumulated,604,615,MeasuredProperty
+S0167610512002292-3187,thickness,111,120,MeasuredProperty
+S0167610512002292-3305,wind speed,344,354,MeasuredProperty
+S0032386113005454-2055,size,251,255,MeasuredProperty
+S0032386113005454-2055,density,903,910,MeasuredProperty
+S0378383912000130-3745,x,75,76,MeasuredProperty
+S0378383912000130-3745,x,97,98,MeasuredProperty
+S0960896612001022-1223,onset,101,106,MeasuredProperty
+S0960896612001022-1223,protein concentration,208,229,MeasuredProperty
+S0167577X14001256-389,width,270,275,MeasuredProperty
+S0016236113008041-3012,elemental Hg was emitted in the exhaust gas,140,183,MeasuredProperty
+S0019103512004009-4350,maximum temperature,466,485,MeasuredProperty
+S0921818113002245-882,depth,707,712,MeasuredProperty
+S0019103512004009-3976,ηnet,92,96,MeasuredProperty
+S0019103512004009-3976,velocity,153,161,MeasuredProperty
+S0019103512004009-3976,velocity,333,341,MeasuredProperty
+S0019103512004009-3976,ηnet,542,546,MeasuredProperty
+S0019103512004009-3976,located,644,651,MeasuredProperty
+S2211124713006475-1205,n,902,903,MeasuredProperty
+S1873506113001116-978,cultured,749,757,MeasuredProperty
+S2213671113000908-979,visually inspected,379,397,MeasuredProperty
+S0019103512003533-3306,thermospheric temperatures,160,186,MeasuredProperty
+S0019103512003533-3306,temperatures,417,429,MeasuredProperty
+S0019103512004009-5271,ratio,628,633,MeasuredProperty
+S0378383911001669-1088,x,74,75,MeasuredProperty
+S0012821X12004384-1221,depth,692,697,MeasuredProperty
+S0012821X12004384-1221,paleodepths,1054,1065,MeasuredProperty
+S0032386113005454-2601,lowest value,758,770,MeasuredProperty
+S1873506114000075-1242,Sox17-positive on D5,981,1001,MeasuredProperty
+S1873506114000075-1242,AFP-positive on D13,1044,1063,MeasuredProperty
+S1873506114000075-1242,ALB-positive on D20,1106,1125,MeasuredProperty
+S0925443913001385-1646,levels in the subject sample,1391,1419,MeasuredProperty
+S0012821X12004384-1284,precision,384,393,MeasuredProperty
+S0012821X12004384-1284,were refluxed for,730,747,MeasuredProperty
+S0012821X12004384-1284,size fractions,1260,1274,MeasuredProperty
+S0012821X12004384-1284,mean standard deviation,1658,1681,MeasuredProperty
+S0032386113005454-2008,toughened,33,42,MeasuredProperty
+S0167577X13006393-787,occurs,169,175,MeasuredProperty
+S2213671113000738-647,generate teratomas,982,1000,MeasuredProperty
+S016412121300188X-4545,sizes,432,437,MeasuredProperty
+S2213671113000908-810,coexpresses CXCR4 and SOX17,729,756,MeasuredProperty
+S0921818113002245-1752,thick,268,273,MeasuredProperty
+S0921818113002245-1752,depth,312,317,MeasuredProperty
+S0019103512003995-2681,cutoff level,183,195,MeasuredProperty
+S0019103512003995-2681,line-integrated transit depths,242,272,MeasuredProperty
+S0019103512003995-2681,Si2+,385,389,MeasuredProperty
+S0019103512003995-2681,cutoff level,482,494,MeasuredProperty
+S0019103512003995-2681,transit depths,531,545,MeasuredProperty
+S0019103512003995-2681,mean temperature,811,827,MeasuredProperty
+S0925443913001385-1638,steady state level of MRPL12 in the subject's fibroblasts,4,61,MeasuredProperty
+S0925443913001385-1638,mt-LSU protein ICT1,119,138,MeasuredProperty
+S0925443913001385-1638,MRPL3,191,196,MeasuredProperty
+S0925443913001385-1638,"MRPS18B, MRPS25 and DAP3",489,513,MeasuredProperty
+S0925443913001385-1638,16S,614,617,MeasuredProperty
+S0925443913001385-1638,12S rRNA levels,622,637,MeasuredProperty
+S016412121300188X-4392,precision,84,93,MeasuredProperty
+S016412121300188X-4392,accurate,144,152,MeasuredProperty
+S016412121300188X-4392,precision,228,237,MeasuredProperty
+S1873506114000075-1132,changed,31,38,MeasuredProperty
+S175058361300203X-1638,injection was performed at 34 °C and,201,237,MeasuredProperty
+S175058361300203X-1638,density between 34 °C and 38 °C decreases,578,619,MeasuredProperty
+S2213671113001306-910,magnification,909,922,MeasuredProperty
+S2213671113001306-910,distance,1022,1030,MeasuredProperty
+S0019103513005058-3917,deposition velocity,386,405,MeasuredProperty
+S0019103513005058-3917,deposition velocities,469,490,MeasuredProperty
+S0019103513005058-3917,deposition velocity,591,610,MeasuredProperty
+S0019103513005058-3917,deposition velocity,658,677,MeasuredProperty
+S016412121300188X-5066,improves,403,411,MeasuredProperty
+S0927024813003036-2011,pre-anneal,562,572,MeasuredProperty
+S0927024813003036-2011,aggregated illumination time,812,840,MeasuredProperty
+S0927024813003036-2011,bulk iron concentrations,1921,1945,MeasuredProperty
+S2213671113000738-430,after transplantation,37,58,MeasuredProperty
+S0006322312001096-1194,Age- and sex-adjusted odds ratio,180,212,MeasuredProperty
+S0006322312001096-1194,increment,221,230,MeasuredProperty
+S0006322312001096-1194,odds ratios,438,449,MeasuredProperty
+S095741741101342X-726,good/bad observations,36,57,MeasuredProperty
+S0167610513001001-1751,speed,346,351,MeasuredProperty
+S0167610513001001-1751,speeds,388,394,MeasuredProperty
+S0016236113008041-3161,values,513,519,MeasuredProperty
+S0016236113008041-3161,concentrations,623,637,MeasuredProperty
+S2213671113000908-640,differentiated,80,94,MeasuredProperty
+S175058361300203X-1542,temperatures,97,109,MeasuredProperty
+S175058361300203X-1542,Vp,453,455,MeasuredProperty
+S175058361300203X-1542,error,516,521,MeasuredProperty
+S175058361300203X-1542,Vp,657,659,MeasuredProperty
+S175058361300203X-1542,temperature,753,764,MeasuredProperty
+S0167610513001001-739,speed,72,77,MeasuredProperty
+S027737911400050X-2401,offset from,593,604,MeasuredProperty
+S0378383913001567-2462,fp,63,65,MeasuredProperty
+S0378383913001567-2462,Hp,79,81,MeasuredProperty
+S0169433213008933-689,gold/palladium,169,183,MeasuredProperty
+S0169433213008933-689,pressure,272,280,MeasuredProperty
+S0169433213008933-689,processed,309,318,MeasuredProperty
+S0169433213008933-689,current,338,345,MeasuredProperty
+S0168945213001805-4536,Cellulose and hemicellulose,305,332,MeasuredProperty
+S2211124712002884-903,history of behavioral changes and memory impairment,201,252,MeasuredProperty
+S2211124712002884-903,old,325,328,MeasuredProperty
+S2211124712002884-903,old,439,442,MeasuredProperty
+S2211124712002884-903,showed progression of atrophy and gliosis,689,730,MeasuredProperty
+S2211124712002884-903,old,1028,1031,MeasuredProperty
+S0378383911001669-2260,friction factors,232,248,MeasuredProperty
+S0378383911001669-2260,roughness,364,373,MeasuredProperty
+S0012821X12004384-1640,negative carbon isotope excursion,2,35,MeasuredProperty
+S0012821X12004384-1640,paleolatitude,1212,1225,MeasuredProperty
+S0031405612000728-1621,period,215,221,MeasuredProperty
+S0031405612000728-1621,course,642,648,MeasuredProperty
+S0031405612000728-1621,incubated,912,921,MeasuredProperty
+S0038071713001971-1388,stimulated (encouraged) by a certain set of soil variables,213,271,MeasuredProperty
+S0038071713001971-1388,were inhibited (discouraged),315,343,MeasuredProperty
+S0960148113004989-3327,averaged power extracted,4,28,MeasuredProperty
+S0960148113004989-3327,full period,179,190,MeasuredProperty
+S0168945213001805-3964,taller,979,985,MeasuredProperty
+S0927024813001955-576,thick,88,93,MeasuredProperty
+S0927024813001955-576,post-annealed,108,121,MeasuredProperty
+S0960148113005727-904,load factors,214,226,MeasuredProperty
+S0032063312003054-2501,concurrent acceleration of heavy-ions,90,127,MeasuredProperty
+S0032063312003054-2501,peripheral acceleration of heavy-ions,338,375,MeasuredProperty
+S0031405612000728-1639,rates,1297,1302,MeasuredProperty
+S0031405612000728-1639,period,1420,1426,MeasuredProperty
+S0031405612000728-1639,period,1528,1534,MeasuredProperty
+S0927024813002420-975,pure,200,204,MeasuredProperty
+S0927024813002420-975,vacuum,528,534,MeasuredProperty
+S0927024813002420-975,temperature,553,564,MeasuredProperty
+S0927024813002420-975,rate,594,598,MeasuredProperty
+S0927024813002420-975,average overall rate,678,698,MeasuredProperty
+S0927024813002420-975,effective conjugation length,1000,1028,MeasuredProperty
+S0025322712001600-2406,long,614,618,MeasuredProperty
+S0025322712001600-2406,values,739,745,MeasuredProperty
+S0025322712001600-2406,weight,810,816,MeasuredProperty
+S0025322712001600-2406,confidence level,828,844,MeasuredProperty
+S1873506113001116-1369,cultured in spinner flasks,20,46,MeasuredProperty
+S1873506113001116-1369,spinner flask,450,463,MeasuredProperty
+S1873506113001116-1369,gelatin-coated tissue culture plates in differentiation medium,486,548,MeasuredProperty
+S1873506113001116-1369,n,1201,1202,MeasuredProperty
+S1873506113001116-1369,n,1228,1229,MeasuredProperty
+S1873506113001116-1369,CD34+CD45+ HPCs,1235,1250,MeasuredProperty
+S1873506113001116-1369,P,1529,1530,MeasuredProperty
+S1873506113001116-1369,n,1541,1542,MeasuredProperty

@@ -1,0 +1,715 @@
+docId,Entity,Start,End,Tag
+S0167610513002729-1127,case,26,30,MeasuredEntity
+S0032063312003054-2264,heavy-ions,252,262,MeasuredEntity
+S0032063312003054-2264,heavy-ions,485,495,MeasuredEntity
+S0032063312003054-2264,closed crustal magnetic field line,659,693,MeasuredEntity
+S0167610512002292-3305,different simulations,23,44,MeasuredEntity
+S0167610512002292-3305,plate,82,87,MeasuredEntity
+S0167610512002292-3305,plate,113,118,MeasuredEntity
+S0167610512002292-3305,plate,178,183,MeasuredEntity
+S0167610512002292-3305,inflow condition,309,325,MeasuredEntity
+S0006322312001096-1190,Venous blood,626,638,MeasuredEntity
+S0006322312001096-1190,Serum for lipid analyses,725,749,MeasuredEntity
+S0006322312001096-1190,new venous blood samples,1177,1201,MeasuredEntity
+S0006322312001096-1190,glucose solution,1253,1269,MeasuredEntity
+S0006322312001096-1190,glucose oxidase method,1308,1330,MeasuredEntity
+S0006322312001096-1190,fasting glucose,1477,1492,MeasuredEntity
+S0006322312001096-1190,2-hour postload glucose,1508,1531,MeasuredEntity
+S0006322312001096-1190,rest,1714,1718,MeasuredEntity
+S0019103512004009-5033,H/H+,4,8,MeasuredEntity
+S0019103512004009-5033,H/H+,142,146,MeasuredEntity
+S0019103512004009-5033,C2 model,401,409,MeasuredEntity
+S0019103512004009-5033,MC09 model,530,540,MeasuredEntity
+S0019103512004009-5033,H/H+,669,673,MeasuredEntity
+S0019103512004009-5033,H Lyman α transit depth,986,1009,MeasuredEntity
+S0167739X12001525-5094,condition part,189,203,MeasuredEntity
+S0167739X12001525-5094,rules,1154,1159,MeasuredEntity
+S0167577X13006393-399,pure PLGA spectrum,119,137,MeasuredEntity
+S0167577X13006393-399,spectrum of HA nanopowder,207,232,MeasuredEntity
+S0167577X13006393-399,PLGA–HA,419,426,MeasuredEntity
+S0019103512003995-2681,M7 model,226,234,MeasuredEntity
+S0019103512003995-2681,silicon,374,381,MeasuredEntity
+S0019103512003995-2681,C2 model,502,510,MeasuredEntity
+S0019103512003995-2681,M7 model,772,780,MeasuredEntity
+S0012821X12004384-1284,samples,150,157,MeasuredEntity
+S0012821X12004384-1284,Replicate analysis,331,349,MeasuredEntity
+S0012821X12004384-1284,bulk rock samples,451,468,MeasuredEntity
+S0012821X12004384-1284,samples,722,729,MeasuredEntity
+S0012821X12004384-1284,azeotropic mixture of dichloromethane and methanol,759,809,MeasuredEntity
+S0012821X12004384-1284,HCl,1131,1134,MeasuredEntity
+S0012821X12004384-1284,samples,1331,1338,MeasuredEntity
+S0012821X12004384-1284,replicate analyses,1689,1707,MeasuredEntity
+S1873506114000075-1242,cells,970,975,MeasuredEntity
+S1873506114000075-1242,cells,1033,1038,MeasuredEntity
+S1873506114000075-1242,cells,1095,1100,MeasuredEntity
+S1873506114000075-1242,ALB secretion,1141,1154,MeasuredEntity
+S0019103513005058-4158,impactors have churned the soil on Mars,639,678,MeasuredEntity
+S0019103513005058-4158,three e-folding depths,724,746,MeasuredEntity
+S0019103513005058-4158,soil,842,846,MeasuredEntity
+S1389128612002496-5994,packets,306,313,MeasuredEntity
+S0927775713009606-1361,divalent cation Cd2+,33,53,MeasuredEntity
+S0927775713009606-1361,amylose helix,213,226,MeasuredEntity
+S0927775713009606-1361,H-bonding,506,515,MeasuredEntity
+S0927024813002420-975,C60,189,192,MeasuredEntity
+S0927024813002420-975,DC Power Supply,414,429,MeasuredEntity
+S0927024813002420-975,DC Power Supply,459,474,MeasuredEntity
+S0927024813002420-975,evaporation,494,505,MeasuredEntity
+S0927024813002420-975,PTh and C60 deposition,602,624,MeasuredEntity
+S0927024813002420-975,PTh,984,987,MeasuredEntity
+S0921818113002245-1752,distinct layer of clastic sediment,213,247,MeasuredEntity
+S1873506114000075-1132,differentiation medium,4,26,MeasuredEntity
+S175058361300203X-1280,dominant frequency,635,653,MeasuredEntity
+S0927024813001955-576,AALD ZnO film,94,107,MeasuredEntity
+S0927024813001955-576,devices,275,282,MeasuredEntity
+S0019103513005058-4175,global soil,354,365,MeasuredEntity
+S0019103513005058-4175,soil,584,588,MeasuredEntity
+S0019103513005058-4175,terrestrial volcanic gas flux,749,778,MeasuredEntity
+S0032063312003054-2467,MEX orbits,726,736,MeasuredEntity
+S2211124713006475-841,GH plasma levels,4,20,MeasuredEntity
+S016412121300188X-4436,threshold,236,245,MeasuredEntity
+S016412121300188X-4436,program's SDG vertices,346,368,MeasuredEntity
+S0167880913001229-1225,ANOVA,198,203,MeasuredEntity
+S0167880913001229-1225,change in SOC stock,265,284,MeasuredEntity
+S0167880913001229-1225,effect of initial C concentration,454,487,MeasuredEntity
+S030881461301604X-1002,stock solutions,4,19,MeasuredEntity
+S030881461301604X-1002,DMA,74,77,MeasuredEntity
+S030881461301604X-1002,MMA,82,85,MeasuredEntity
+S030881461301604X-1002,nitric acid,227,238,MeasuredEntity
+S030881461301604X-1002,final standard concentrations,357,386,MeasuredEntity
+S030881461301604X-1002,nitric acid,441,452,MeasuredEntity
+S0168945213001805-3964,mutant gene,271,282,MeasuredEntity
+S0168945213001805-3964,Hybrid aspen (P. tremula × P. tremuloides) over-expressing GID1,900,963,MeasuredEntity
+S0032386113005454-2055,double-cantilever mode,167,189,MeasuredEntity
+S0032386113005454-2055,test specimens,217,231,MeasuredEntity
+S0032386113005454-2055,temperature range,261,278,MeasuredEntity
+S0032386113005454-2055,heating rate,313,325,MeasuredEntity
+S0032386113005454-2055,epoxy,771,776,MeasuredEntity
+S0032386113005454-2055,front factor,833,845,MeasuredEntity
+S0032386113005454-2055,epoxy,922,927,MeasuredEntity
+S0032386113005454-2055,room temperature,944,960,MeasuredEntity
+S0165587612003680-1078,bacteria,196,204,MeasuredEntity
+S0165587612003680-1078,commonest pathogens,450,469,MeasuredEntity
+S0165587612003680-1078,S. lugdunensis,686,700,MeasuredEntity
+S0165587612003680-1078,bacteria isolated from OME,1032,1058,MeasuredEntity
+S0032063312003054-1990,ELS spectrogram,103,118,MeasuredEntity
+S0032063312003054-1990,clear “inverted-V” structure,142,170,MeasuredEntity
+S0032063312003054-1990,peak,314,318,MeasuredEntity
+S0012821X12004384-1249,Borehole 22/10a-4,0,17,MeasuredEntity
+S0012821X12004384-1249,section of 22/10a-4,456,475,MeasuredEntity
+S0012821X12004384-1249,the claystone,710,723,MeasuredEntity
+S0012821X12004384-1249,alternately pale and dark laminae couplets,754,796,MeasuredEntity
+S0012821X12004384-1249,Laminae,950,957,MeasuredEntity
+S0012821X12004384-1249,core,1001,1005,MeasuredEntity
+S0960148113002048-3775,major trends,135,147,MeasuredEntity
+S0960148113002048-3775,wind,693,697,MeasuredEntity
+S0960148113002048-3775,wind,968,972,MeasuredEntity
+S0006322312001096-1260,adults,221,227,MeasuredEntity
+S0006322312001096-1260,elevated depressive symptoms,423,451,MeasuredEntity
+S0006322312001096-1260,older adults,624,636,MeasuredEntity
+S0006322312001096-1260,objective atherosclerosis measures,679,713,MeasuredEntity
+S1873506113001116-1369,BC1 and TNC1 hiPSCs,0,19,MeasuredEntity
+S1873506113001116-1369,serum,403,408,MeasuredEntity
+S1873506113001116-1369,cells of all three germ layers,550,580,MeasuredEntity
+S1873506113001116-1369,BC1,1156,1159,MeasuredEntity
+S1873506113001116-1369,TNC1,1164,1168,MeasuredEntity
+S1873506113001116-1369,total number of CFUs,1468,1488,MeasuredEntity
+S0012821X12004384-1232,central part of the basin,37,62,MeasuredEntity
+S0012821X12004384-1232,turbidite sandstones,306,326,MeasuredEntity
+S0012821X12004384-1232,basin,471,476,MeasuredEntity
+S0032063313003218-6651,limit of present HST detectability,360,394,MeasuredEntity
+S0032063313003218-6651,case ES with EF,459,474,MeasuredEntity
+S0032063313003218-6651,case ES,752,759,MeasuredEntity
+S0032063313003218-6651,case EF,774,781,MeasuredEntity
+S0032063313003218-6651,case EF,812,819,MeasuredEntity
+S0032063313003218-6651,case ES,854,861,MeasuredEntity
+S0032063313003218-6651,model also predicts,932,951,MeasuredEntity
+S2213671113000908-979,Wells,368,373,MeasuredEntity
+S0006322312001096-1177,Whitehall II study,4,22,MeasuredEntity
+S0006322312001096-1177,target population,202,219,MeasuredEntity
+S0006322312001096-1177,civil service departments,284,309,MeasuredEntity
+S0006322312001096-1177,cohort,393,399,MeasuredEntity
+S0006322312001096-1177,follow-up examinations,496,518,MeasuredEntity
+S0006322312001096-1177,phase 3,565,572,MeasuredEntity
+S0006322312001096-1177,phase 5,599,606,MeasuredEntity
+S0006322312001096-1177,phase 7,633,640,MeasuredEntity
+S0006322312001096-1177,phase 9,671,678,MeasuredEntity
+S0006322312001096-1177,screening cycles,880,896,MeasuredEntity
+S0006322312001096-1177,data cycles,1123,1134,MeasuredEntity
+S0006322312001096-1230,data cycles,331,342,MeasuredEntity
+S0006322312001096-1230,participants without GHQ symptoms,353,386,MeasuredEntity
+S0006322312001096-1230,those without CES-D depressive symptoms,420,459,MeasuredEntity
+S0006322312001096-1230,those not on antidepressant treatment,504,541,MeasuredEntity
+S0006322312001096-1230,cases of GHQ symptoms,574,595,MeasuredEntity
+S0006322312001096-1230,those with CES-D depressive symptoms,678,714,MeasuredEntity
+S0006322312001096-1230,"participants with GHQ symptoms,",719,750,MeasuredEntity
+S0006322312001096-1230,Pearson correlation at phase 7,793,823,MeasuredEntity
+S0006322312001096-1230,participants with CES-D depressive symptoms,862,905,MeasuredEntity
+S0165587612003680-953,children with OME and/or recurrent AOM,253,291,MeasuredEntity
+S0019103512004009-5271,collisions with neutral H dominate the transport of heavy neutral atoms,78,149,MeasuredEntity
+S0019103512004009-5271,mass,276,280,MeasuredEntity
+S0019103512004009-5271,models,452,458,MeasuredEntity
+S0019103512004009-5271,[H+]/[H],634,642,MeasuredEntity
+S0025322712001600-2406,cores,598,603,MeasuredEntity
+S0025322712001600-2406,clay mineral,726,738,MeasuredEntity
+S0025322712001600-2406,values,739,745,MeasuredEntity
+S0025322712001600-2406,uncertainty,767,778,MeasuredEntity
+S0168945213001805-4775,endogenous cold-binding factor/drought responsive element binding (CBF/DREB)1-like genes,192,280,MeasuredEntity
+S0168945213001805-4775,CBF/DREB genes,540,554,MeasuredEntity
+S0168945213001805-4775,Eucalyptus gunnii,560,577,MeasuredEntity
+S0168945213001805-4775,Tropical E. grandis × E. urophylla expressing a stress-inducible rd29a promoter-CBF2 transcription factor cassette,757,871,MeasuredEntity
+S0927024813001955-1005,ZnO films,610,619,MeasuredEntity
+S0927024813001955-1005,films,711,716,MeasuredEntity
+S0960148113004989-3277,simulation time,93,108,MeasuredEntity
+S0960148113004989-3277,one P = 12 h sinusoidal period,122,152,MeasuredEntity
+S1359645413009816-2973,molecular dynamics simulations on Ni,978,1014,MeasuredEntity
+S2213671113000738-485,Magnetic resonance images of a representative animal,6,58,MeasuredEntity
+S0925443913003037-654,Cranial MRI performed,0,21,MeasuredEntity
+S0032386113005454-2308,unmodified epoxy polymer,58,82,MeasuredEntity
+S0032386113005454-2308,S-CSR particles,191,206,MeasuredEntity
+S0921818113002245-882,series,176,182,MeasuredEntity
+S0921818113002245-882,lead pollution horizon,557,579,MeasuredEntity
+S0921818113002245-882,sediments,684,693,MeasuredEntity
+S0019103512002801-2018,features,508,516,MeasuredEntity
+S0019103512002801-2018,enhanced ULF wave activity in the lunar,1351,1390,MeasuredEntity
+S0167819113001051-1247,node,14,18,MeasuredEntity
+S0167819113001051-1247,manufactured dice,309,326,MeasuredEntity
+S1873506113001116-1204,BC1 cells,313,322,MeasuredEntity
+S1873506113001116-1204,cells,535,540,MeasuredEntity
+S1873506113001116-1204,BC1 cells,750,759,MeasuredEntity
+S1873506113001116-1204,cells,906,911,MeasuredEntity
+S1873506113001116-1204,passages,937,945,MeasuredEntity
+S1873506113001116-1204,cells,1228,1233,MeasuredEntity
+S1873506113001116-1204,undifferentiated hiPSCs,1298,1321,MeasuredEntity
+S0021979713004438-1401,solution,124,132,MeasuredEntity
+S0021979713004438-1401,pure ethanol,213,225,MeasuredEntity
+S0021979713004438-1401,water,778,783,MeasuredEntity
+S0021979713004438-1401,hematite surface,805,821,MeasuredEntity
+S175058361300203X-1542,seismic velocity in sandstones saturated with brine does not depend on,26,96,MeasuredEntity
+S175058361300203X-1542,CO2 saturation,387,401,MeasuredEntity
+S175058361300203X-1542,scenarios,440,449,MeasuredEntity
+S175058361300203X-1542,CO2 saturation,525,539,MeasuredEntity
+S175058361300203X-1542,petrophysical experiments,548,573,MeasuredEntity
+S175058361300203X-1542,scenarios,765,774,MeasuredEntity
+S0016236113008041-3161,lowest bed inventory,26,46,MeasuredEntity
+S0016236113008041-3161,P,363,364,MeasuredEntity
+S0016236113008041-3161,bed inventories,420,435,MeasuredEntity
+S0016236113008041-3161,inventory,489,498,MeasuredEntity
+S0016236113008041-3161,flue gas,645,653,MeasuredEntity
+S0378383912000130-3745,beach,15,20,MeasuredEntity
+S0378383912000130-3745,modelling,25,34,MeasuredEntity
+S027737911400050X-2401,real age,609,617,MeasuredEntity
+S027737911400050X-2401,cal BP Alpehué Pumice (So-A) eruption,1405,1442,MeasuredEntity
+S0032386113005454-2865,S-CSR particle-modified polymers,50,82,MeasuredEntity
+S0032386113005454-2865,S-CSR-modified epoxy polymers,296,325,MeasuredEntity
+S0032386113005454-2865,cavities,621,629,MeasuredEntity
+S0032386113005454-2865,S-CSR particles,718,733,MeasuredEntity
+S0032386113005454-2865,samples,1644,1651,MeasuredEntity
+S0032386113005454-2865,S-CSR particles,1720,1735,MeasuredEntity
+S016412121300188X-5066,precision of previous slice,419,446,MeasuredEntity
+S016412121300188X-5066,production programs,627,646,MeasuredEntity
+S0031405612000728-1639,months,788,794,MeasuredEntity
+S0031405612000728-1639,Aggregate turnover,1278,1296,MeasuredEntity
+S0031405612000728-1639,aggregate stability,1372,1391,MeasuredEntity
+S0031405612000728-1639,aggregate water repellency,1486,1512,MeasuredEntity
+S2213671113001306-908,scale bars,56,66,MeasuredEntity
+S2213671113001306-908,inset,86,91,MeasuredEntity
+S0038071712001010-918,AM fungal inoculum as a single factor,0,37,MeasuredEntity
+S0038071712001010-918,levels of colonisation,196,218,MeasuredEntity
+S0038071712001010-918,two-species mixture of G. geosporum plus G. mosseae,403,454,MeasuredEntity
+S0038071712001010-918,combination of all three species,480,512,MeasuredEntity
+S0038071712001010-918,G. geosporum,679,691,MeasuredEntity
+S0038071712001010-918,G. mosseae,698,708,MeasuredEntity
+S0038071712001010-918,G. mosseae and G. intraradices,750,780,MeasuredEntity
+S0038071712001010-918,G. intraradices,845,860,MeasuredEntity
+S2213671113000738-445,cells,84,89,MeasuredEntity
+S0032386113009889-2123,debonding,946,955,MeasuredEntity
+S0032386113009889-2123,finite-element analysis simulations,1098,1133,MeasuredEntity
+S2211124712002884-1060,Dulbecco's modified Eagle's medium,603,637,MeasuredEntity
+S0167577X14001256-389,arrow,256,261,MeasuredEntity
+S0019103512002801-1716,∣B∣,107,110,MeasuredEntity
+S1388248113001951-339,cells,88,93,MeasuredEntity
+S1388248113001951-339,sample,222,228,MeasuredEntity
+S016412121300188X-4617,very large dominant coherent cluster,189,225,MeasuredEntity
+S016412121300188X-4617,largest,285,292,MeasuredEntity
+S2211124712002884-649,Values of control line 20,79,104,MeasuredEntity
+S2211124712002884-649,independent cultures,131,151,MeasuredEntity
+S0006322312001096-1253,increased onset of depressive symptoms,263,301,MeasuredEntity
+S0378112713005288-1720,upland sites,337,349,MeasuredEntity
+S0378112713005288-1720,native tree species,616,635,MeasuredEntity
+S0378112713005288-1720,native woody tree species,802,827,MeasuredEntity
+S2213671113001306-1404,Animals,0,7,MeasuredEntity
+S2213671113001306-1404,human RPE,588,597,MeasuredEntity
+S2213671113001306-1404,human RPE cell,1050,1064,MeasuredEntity
+S2213671113001306-1404,polarized human RPE,1484,1503,MeasuredEntity
+S0032063312003054-2501,events of electron precipitation signatures,21,64,MeasuredEntity
+S0032063312003054-2501,precipitation signatures occurring on ∼5% of MEX orbits,154,209,MeasuredEntity
+S0032063312003054-2501,events of electron precipitation signatures,219,262,MeasuredEntity
+S0032063312003054-2501,precipitation signatures,412,436,MeasuredEntity
+S0032063312003054-2501,MEX orbits,451,461,MeasuredEntity
+S0169433213008933-689,alloy,192,197,MeasuredEntity
+S0169433213008933-689,Argon,284,289,MeasuredEntity
+S0169433213008933-689,Samples,291,298,MeasuredEntity
+S0169433213008933-689,processed,309,318,MeasuredEntity
+S0019103512003995-1767,He,237,239,MeasuredEntity
+S1873506113001116-978,hiPSC lines,565,576,MeasuredEntity
+S1873506113001116-978,hiPSCs,742,748,MeasuredEntity
+S0378383912000130-1048,beach,142,147,MeasuredEntity
+S0165587612003680-998,ears,127,131,MeasuredEntity
+S0165587612003680-998,ear,209,212,MeasuredEntity
+S0165587612003680-998,ear,262,265,MeasuredEntity
+S0165587612003680-998,Children,287,295,MeasuredEntity
+S0165587612003680-998,adults,395,401,MeasuredEntity
+S0165587612003680-998,Fisher's exact test,543,562,MeasuredEntity
+S0038071713001971-1427,yield records,76,89,MeasuredEntity
+S0031405612000728-769,months,62,68,MeasuredEntity
+S0012821X13007309-1691,Livello Bonarelli,124,141,MeasuredEntity
+S0012821X13007309-1691,numerous centimetre scale organic-rich shale layers,382,433,MeasuredEntity
+S0012821X13007309-1691,δ13Corg record,462,476,MeasuredEntity
+S0012821X13007309-1691,characteristic positive excursion in δ13Corg,559,603,MeasuredEntity
+S0168945213001805-4536,wood,353,357,MeasuredEntity
+S016412121300188X-4392,hash function,122,135,MeasuredEntity
+S016412121300188X-4392,hash function,261,274,MeasuredEntity
+S016412121300188X-4392,UH,328,330,MeasuredEntity
+S0022459611006116-1448,samples 1 and 2,51,66,MeasuredEntity
+S2213671113000921-1279,SOX2,187,191,MeasuredEntity
+S0022399913003358-943,cross-sectional sample,1438,1460,MeasuredEntity
+S0022399913003358-943,530 participants,1464,1480,MeasuredEntity
+S0019103513005058-4098,surface temperature,385,404,MeasuredEntity
+S0019103513005058-4098,temperature,441,452,MeasuredEntity
+S0032386113005454-2601,unmodified epoxy polymer,563,587,MeasuredEntity
+S0032386113005454-2601,compressive true yield stress,778,807,MeasuredEntity
+S0032386113005454-2601,S-CSR-modified epoxy polymer,849,877,MeasuredEntity
+S0927024813002961-1334,annual energy prediction,303,327,MeasuredEntity
+S0927024813002961-1334,devices,778,785,MeasuredEntity
+S0167610513001001-1751,bins,153,157,MeasuredEntity
+S0167610513001001-1751,instruments,270,281,MeasuredEntity
+S0167610513001001-1751,wind,341,345,MeasuredEntity
+S0167610513001001-1751,wind,383,387,MeasuredEntity
+S0378383912000130-3662,beach,52,57,MeasuredEntity
+S0378383912000130-3662,beach,143,148,MeasuredEntity
+S0378383912000130-3662,beach,382,387,MeasuredEntity
+S1750583613004192-1267,gas saturation,386,400,MeasuredEntity
+S1750583613004192-1267,saturations,468,479,MeasuredEntity
+S1750583613004192-1267,Sleipner plume,649,663,MeasuredEntity
+S1750583613004192-1267,mean saturation for the plume,827,856,MeasuredEntity
+S0016236113008041-961,error bars,96,106,MeasuredEntity
+S0167577X13006393-644,Sintering of pure HA particles,0,30,MeasuredEntity
+S0167577X13006393-644,pure HA (ratio CaP=1.67) is stable in an air and argon atmosphere,221,286,MeasuredEntity
+S0167577X13006393-644,decomposition of HA,334,353,MeasuredEntity
+S0012821X12004384-952,samples,236,243,MeasuredEntity
+S0012821X12004384-952,samples,367,374,MeasuredEntity
+S0012821X12004384-952,Values shaded,641,654,MeasuredEntity
+S1550413113004920-1509,147 patients from consanguineous pedigrees,13,55,MeasuredEntity
+S0012821X12004384-1178,PETM,4,8,MeasuredEntity
+S0012821X12004384-1178,sea surface temperatures,144,168,MeasuredEntity
+S0012821X12004384-1178,δ13C-depleted carbon,301,321,MeasuredEntity
+S0012821X12004384-1178,negative carbon isotope excursion (CIE),424,463,MeasuredEntity
+S0012821X12004384-1178,marine and terrestrial sediments,486,518,MeasuredEntity
+S0012821X12004384-1178,marine hydrates containing biogenic methane,902,945,MeasuredEntity
+S1084804513001987-7409,-dimensional scaling,122,142,MeasuredEntity
+S1084804513001987-7409,scaling,385,392,MeasuredEntity
+S0167610513001001-739,wind,67,71,MeasuredEntity
+S030881461301604X-1001,nitric acid,107,118,MeasuredEntity
+S030881461301604X-1001,hydrochloric acid,131,148,MeasuredEntity
+S030881461301604X-1001,hydrogen peroxide,185,202,MeasuredEntity
+S030881461301604X-1001,formic acid,213,224,MeasuredEntity
+S0032063312002437-627,cycle,349,354,MeasuredEntity
+S0032063312002437-627,maximum ion count,412,429,MeasuredEntity
+S0032063312002437-627,data set,572,580,MeasuredEntity
+S0032063312002437-627,data,622,626,MeasuredEntity
+S0921818113002245-859,lakes,150,155,MeasuredEntity
+S0038071711004354-2573,soil profile,182,194,MeasuredEntity
+S0038071711004354-2573,Mediterranean forest sites in Italy,410,445,MeasuredEntity
+S0038071711004354-2573,soil profile,568,580,MeasuredEntity
+S0025322712001600-2230,marine cores,72,84,MeasuredEntity
+S0025322712001600-2230,sedimentation,265,278,MeasuredEntity
+S0019103513005058-4349,temperature profile,171,190,MeasuredEntity
+S0019103513005058-4349,perchloric acid,339,354,MeasuredEntity
+S1750583613004192-714,Sleipner plume profile,4,26,MeasuredEntity
+S1750583613004192-714,CO2,145,148,MeasuredEntity
+S1750583613004192-714,plume layers,181,193,MeasuredEntity
+S1750583613004192-714,ninth layer,349,360,MeasuredEntity
+S1750583613004192-714,CO2,405,408,MeasuredEntity
+S1750583613004192-714,injection point (IP),462,482,MeasuredEntity
+S2213671113000738-435,Data,70,74,MeasuredEntity
+S2213671113000738-435,(A)–(H),204,211,MeasuredEntity
+S2213671113000738-435,(C)–(F),232,239,MeasuredEntity
+S2213671113000738-435,(J)–(M) and (Q),251,266,MeasuredEntity
+S0168945213001805-5014,strains,220,227,MeasuredEntity
+S2213671113001306-1398,intravitreal triamcinolone (TCA) injection,500,542,MeasuredEntity
+S2213671113001306-910,Left images,865,876,MeasuredEntity
+S2213671113001306-910,right micrographs,924,941,MeasuredEntity
+S2213671113001306-910,scale bars,983,993,MeasuredEntity
+S0378383912000130-3907,beach,124,129,MeasuredEntity
+S2213671113000738-684,observed,30,38,MeasuredEntity
+S2213671113000738-684,allograft,79,88,MeasuredEntity
+S2213671113000738-684,serum level of IFN-γ temporarily increased,258,300,MeasuredEntity
+S2213671113000738-684,animals,343,350,MeasuredEntity
+S2213671113000738-684,immunofluorescence study conducted,367,401,MeasuredEntity
+S2213671113000738-684,CD45+ cells,1214,1225,MeasuredEntity
+S0960896612001022-1223,PEO and pigmentary retinopathy,65,95,MeasuredEntity
+S0960896612001022-1223,cerebrospinal fluid (CSF),182,207,MeasuredEntity
+S0022399913003358-931,general population,492,510,MeasuredEntity
+S0022399913003358-931,adults aged over 48 years,555,580,MeasuredEntity
+S0022399913003358-931,population,617,627,MeasuredEntity
+S0167610512002292-3187,initial orientations,18,38,MeasuredEntity
+S0167610512002292-3187,square plate,95,107,MeasuredEntity
+S0167610512002292-3187,sets of cases,319,332,MeasuredEntity
+S0006322312001096-1278,depressive symptoms,411,430,MeasuredEntity
+S0006322312001096-1278,depressive symptoms,598,617,MeasuredEntity
+S2211124712002884-903,two FTD patients,4,20,MeasuredEntity
+S2211124712002884-903,patient,306,313,MeasuredEntity
+S2211124712002884-903,other patient,414,427,MeasuredEntity
+S2211124712002884-903,MRI scans,679,688,MeasuredEntity
+S2211124712002884-903,age-matched subject,979,998,MeasuredEntity
+S0006322312001096-1275,survey,31,37,MeasuredEntity
+S2211124712002884-1110,iPSC colonies,0,13,MeasuredEntity
+S2211124712002884-1110,rosettes,229,237,MeasuredEntity
+S2211124712002884-1110,Neurospheres,294,306,MeasuredEntity
+S2211124712002884-1110,poly-D-lysine,426,439,MeasuredEntity
+S2211124712002884-1110,laminin,456,463,MeasuredEntity
+S2211124712002884-1110,Neurons,475,482,MeasuredEntity
+S1387700313001822-661,solid state CD spectrum of GMP,226,256,MeasuredEntity
+S1387700313001822-661,spectrum of complex 1,550,571,MeasuredEntity
+S1387700313001822-661,strong negative CE,864,882,MeasuredEntity
+S1387700313001822-661,θ,903,904,MeasuredEntity
+S175058361300203X-1638,reservoir temperature,107,128,MeasuredEntity
+S175058361300203X-1638,cases,180,185,MeasuredEntity
+S175058361300203X-1638,injection,201,210,MeasuredEntity
+S175058361300203X-1638,cases,350,355,MeasuredEntity
+S0925443913001385-1638,control value,84,97,MeasuredEntity
+S0925443913001385-1638,control values,168,182,MeasuredEntity
+S0925443913001385-1638,proteins of the small ribosomal subunit (SSU),442,487,MeasuredEntity
+S0925443913001385-1638,control,572,579,MeasuredEntity
+S0019103512004009-3976,heating efficiency,27,45,MeasuredEntity
+S0019103512004009-3976,upper boundary,169,183,MeasuredEntity
+S0019103512004009-3976,case,324,328,MeasuredEntity
+S0019103512004009-3976,upper boundary,349,363,MeasuredEntity
+S0019103512004009-3976,heating efficiency,501,519,MeasuredEntity
+S0019103512004009-3976,isothermal sonic point,557,579,MeasuredEntity
+S0019103512004009-3976,ηnet,629,633,MeasuredEntity
+S095741741101342X-2624,classifiers,68,79,MeasuredEntity
+S175058361300203X-1556,amplitude values of the baseline,688,720,MeasuredEntity
+S175058361300203X-1556,normalized root mean square (NRMS) differences,741,787,MeasuredEntity
+S0960148113005727-904,wind farms in the UK,230,250,MeasuredEntity
+S0006322312001096-626,Framingham Risk Scores,20,42,MeasuredEntity
+S0006322312001096-626,Depressive Symptoms,86,105,MeasuredEntity
+S1359835X13001875-1359,two-dimensional square system,24,53,MeasuredEntity
+S1359835X13001875-1359,number,198,204,MeasuredEntity
+S0012821X12004384-1221,water,686,691,MeasuredEntity
+S0012821X12004384-1221,central parts of the northern North Sea,995,1034,MeasuredEntity
+S2213671113000738-647,animals,18,25,MeasuredEntity
+S2213671113000738-647,animals,174,181,MeasuredEntity
+S2213671113000738-647,testes of a severe combined immunodeficiency (SCID) mouse,1008,1065,MeasuredEntity
+S2213671113000738-738,double-blind clinical trials,429,457,MeasuredEntity
+S2213671113000738-738,untreated monkey peripheral blood cells,880,919,MeasuredEntity
+S2213671113000738-738,serum level of IFN-γ increased,971,1001,MeasuredEntity
+S2213671113000738-738,CD45+ cells,1019,1030,MeasuredEntity
+S2213671113000738-738,human peripheral blood cells in both hESCs and iPSCs,1931,1983,MeasuredEntity
+S0925443913001385-839,cell lysate,314,325,MeasuredEntity
+S0016236113008041-872,bed inventories,80,95,MeasuredEntity
+S0022459611006116-547,Refined crystallographic parameters for (1) from PXD and PND,0,60,MeasuredEntity
+S0019103512004009-2821,molecules,887,896,MeasuredEntity
+S0019103512004009-2821,H and O,1359,1366,MeasuredEntity
+S0019103512004009-2821,models predict,1658,1672,MeasuredEntity
+S2211124713006475-1205,Histological analysis,641,662,MeasuredEntity
+S2211124713006475-1205,GFP+ fibers showed extensive projections into the host brain,840,900,MeasuredEntity
+S0032386113005454-2008,particles,4,13,MeasuredEntity
+S1570870512000637-1206,phenomenon,219,229,MeasuredEntity
+S0927775713009606-1074,mesopore domains,798,814,MeasuredEntity
+S0927775713009606-1074,synthesised CdS nanoparticles,977,1006,MeasuredEntity
+S0927775713009606-1074,CdS/starch,1182,1192,MeasuredEntity
+S0019103513005058-3917,all species,424,435,MeasuredEntity
+S0019103513005058-3917,exceptions,446,456,MeasuredEntity
+S0019103513005058-3917,"O2, H2, and CO",495,509,MeasuredEntity
+S0019103513005058-3917,all species,567,578,MeasuredEntity
+S0378383912000130-3827,beach,26,31,MeasuredEntity
+S0378383912000130-3827,beach,51,56,MeasuredEntity
+S0378383912000130-3827,beach,262,267,MeasuredEntity
+S0378383912000130-1096,Time-series of model-predicted (solid lines) and experimentally-measured (dashed lines) hydraulic head,0,102,MeasuredEntity
+S0378383912000130-1096,beach,126,131,MeasuredEntity
+S2213158213000302-1597,MMNm component,124,138,MeasuredEntity
+S0960148113004989-3203,tidal period,403,415,MeasuredEntity
+S0960148113004989-3203,tidal range,466,477,MeasuredEntity
+S0960148113004989-3203,simulation time,492,507,MeasuredEntity
+S0927024813002420-1202,co-deposition of blended mixtures,230,263,MeasuredEntity
+S0927024813002420-1202,devices,405,412,MeasuredEntity
+S0019103513005058-4302,input of odd nitrogen,544,565,MeasuredEntity
+S0019103513005058-4302,N,602,603,MeasuredEntity
+S0019103513005058-4302,soil,655,659,MeasuredEntity
+S0378383911001669-2260,two beaches,47,58,MeasuredEntity
+S0378383911001669-2260,rougher beach,428,441,MeasuredEntity
+S0378383911001669-2260,x,842,843,MeasuredEntity
+S0378383911001669-2260,x,1002,1003,MeasuredEntity
+S0378383911001669-2260,beach,1070,1075,MeasuredEntity
+S0378383911001669-2260,beach,1551,1556,MeasuredEntity
+S0378383911001669-2260,beach,1595,1600,MeasuredEntity
+S0378383911001669-2260,beach,1640,1645,MeasuredEntity
+S0378383911001669-2260,lowest locations on the beach,1709,1738,MeasuredEntity
+S0031405612000728-1621,current investigation,15,36,MeasuredEntity
+S0031405612000728-1621,experiment,664,674,MeasuredEntity
+S0031405612000728-1621,soils,922,927,MeasuredEntity
+S0168945213001805-5026,wild-type cottonwood,14,34,MeasuredEntity
+S0168945213001805-5026,wild-type trees,159,174,MeasuredEntity
+S0168945213001805-5026,beetle species,437,451,MeasuredEntity
+S2213671113001306-885,scale bars,287,297,MeasuredEntity
+S0167577X14001256-517,3DAP observation conditions,294,321,MeasuredEntity
+S0167577X14001256-517,constant evaporation rate,528,553,MeasuredEntity
+S0167577X14001256-517,3DAP observation,691,707,MeasuredEntity
+S0925443913003037-1397,mt-tRNAPhe,396,406,MeasuredEntity
+S0167577X13006393-787,Ca/P,107,111,MeasuredEntity
+S0167577X13006393-787,HA decomposition,152,168,MeasuredEntity
+S0167577X13006393-787,deficient HA,197,209,MeasuredEntity
+S2211124712002884-682,Scale bar,248,257,MeasuredEntity
+S2211124713006475-1195,surviving GFP+ cells,468,488,MeasuredEntity
+S2211124713006475-1195,in vivo fiber outgrowth,788,811,MeasuredEntity
+S0921818113002245-1571,sediments,88,97,MeasuredEntity
+S0921818113002245-1571,vertical slab of relatively undisturbed sediment,221,269,MeasuredEntity
+S0921818113002245-1571,cores,467,472,MeasuredEntity
+S0921818113002245-1571,cores of sediment,643,660,MeasuredEntity
+S0921818113002245-1571,PVC tubes,664,673,MeasuredEntity
+S0921818113002245-1571,overlapping cores,816,833,MeasuredEntity
+S0921818113002245-1571,sediment,873,881,MeasuredEntity
+S0921818113002245-1571,drives,1040,1046,MeasuredEntity
+S0921818113002245-1571,sediments,1081,1090,MeasuredEntity
+S0921818113002245-1571,sediment,1209,1217,MeasuredEntity
+S0925443913001385-1646,isokinetic sucrose gradients,247,275,MeasuredEntity
+S0925443913001385-1646,control value,1445,1458,MeasuredEntity
+S2213671113001306-907,scale bar,44,53,MeasuredEntity
+S2213671113001306-907,scale bar,124,133,MeasuredEntity
+S0019103512001388-3081,differential brightness of BS1 in the H filter,47,93,MeasuredEntity
+S0019103512001388-3081,discovery image,126,141,MeasuredEntity
+S0012821X12004384-1148,Paleocene–Eocene thermal maximum (PETM,42,80,MeasuredEntity
+S0012821X12004384-1148,"North Atlantic igneous province (NAIP), the Kilda Basin, and the northern rain belt",187,270,MeasuredEntity
+S0012821X12004384-1148,halocline stratification and terrigenous deposition,880,931,MeasuredEntity
+S0378112713005288-1948,significant variation in total regeneration densities,182,235,MeasuredEntity
+S0378112713005288-1948,total observed variation,276,300,MeasuredEntity
+S0378112713005288-1948,significantly greater,424,445,MeasuredEntity
+S0378112713005288-1948,No significant difference in regeneration densities,649,700,MeasuredEntity
+S016412121300188X-4069,open source calculator bc,19,44,MeasuredEntity
+S016412121300188X-4069,9438 lines of code,54,72,MeasuredEntity
+S016412121300188X-4069,MSG,197,200,MeasuredEntity
+S0038071712001010-1044,small pores,613,624,MeasuredEntity
+S0038071712001010-1044,experiment,2587,2597,MeasuredEntity
+S0006322312001096-1271,validation study,763,779,MeasuredEntity
+S0006322312001096-1271,the questionnaire measures,856,882,MeasuredEntity
+S0032063312003054-2483,heavy-ions,37,47,MeasuredEntity
+S0378383912000130-3732,beaches,268,275,MeasuredEntity
+S0927024813002420-1032,BHJ,421,424,MeasuredEntity
+S0927024813002420-1032,planar heterojunction devices,539,568,MeasuredEntity
+S0927024813003036-2011,injection level range,151,172,MeasuredEntity
+S0927024813003036-2011,samples,497,504,MeasuredEntity
+S0927024813003036-2011,close-up flashes,653,669,MeasuredEntity
+S0927024813003036-2011,flashes of light,848,864,MeasuredEntity
+S0927024813003036-2011,second lifetime measurement,1014,1041,MeasuredEntity
+S0927024813003036-2011,lifetime measurements,1148,1169,MeasuredEntity
+S0927024813003036-2011,injection level,1885,1900,MeasuredEntity
+S0927024813003036-2011,“uncontaminated” samples,1953,1977,MeasuredEntity
+S0006322312001096-1221,confidence intervals,283,303,MeasuredEntity
+S0006322312001096-1221,risk score,333,343,MeasuredEntity
+S0006322312001096-1221,power,442,447,MeasuredEntity
+S0006322312001096-1221,significance level,453,471,MeasuredEntity
+S0006322312001096-1221,10% increase in the Framingham CVD risk score,508,553,MeasuredEntity
+S0006322312001096-1221,depressive symptoms defined by CES-D,559,595,MeasuredEntity
+S0006322312001096-1221,antidepressant medication,600,625,MeasuredEntity
+S2213158213000582-1327,cortical gray-matter regions,639,667,MeasuredEntity
+S2213158213000582-1327,regions,672,679,MeasuredEntity
+S2213158213000582-1327,sub-cortical regions,704,724,MeasuredEntity
+S2213158213000582-1327,cubic source grid,798,815,MeasuredEntity
+S0006322312001096-1136,Whitehall II study,25,43,MeasuredEntity
+S0006322312001096-1136,baseline examination,49,69,MeasuredEntity
+S0006322312001096-1136,follow-up screenings,79,99,MeasuredEntity
+S0006322312001096-1136,5318 participants,205,222,MeasuredEntity
+S0006322312001096-1136,Center for Epidemiologic Studies Depression Scale,520,569,MeasuredEntity
+S0167880913001229-1021,•SOC stocks,0,11,MeasuredEntity
+S0167880913001229-1021,soil,144,148,MeasuredEntity
+S016412121300188X-4640,coherent cluster,32,48,MeasuredEntity
+S016412121300188X-4640,program's vertices,73,91,MeasuredEntity
+S016412121300188X-4640,functions,135,144,MeasuredEntity
+S016412121300188X-4640,source files,159,171,MeasuredEntity
+S016412121300188X-4640,functions,261,270,MeasuredEntity
+S016412121300188X-4640,functions,332,341,MeasuredEntity
+S016412121300188X-5038,case studies,230,242,MeasuredEntity
+S0960148113005727-1494,measures,30,38,MeasuredEntity
+S0960148113005727-1494,annual degradation,102,120,MeasuredEntity
+S0038071713001971-1388,OTUs in healthy soils,186,207,MeasuredEntity
+S0960148113005727-1181,farm,106,110,MeasuredEntity
+S0378383912000130-1054,beach,142,147,MeasuredEntity
+S0167880913001229-1304,organic fertilisers,87,106,MeasuredEntity
+S0167880913001229-1304,no significant differences,143,169,MeasuredEntity
+S0167880913001229-1304,positive correlation,357,377,MeasuredEntity
+S0167880913001229-1304,SOC,453,456,MeasuredEntity
+S0167880913001229-1304,lower soil depths,575,592,MeasuredEntity
+S0167880913001229-1304,SOC,684,687,MeasuredEntity
+S0006322312001096-1248,CI,594,596,MeasuredEntity
+S2213671113001306-1520,Spectralis,347,357,MeasuredEntity
+S2213671113001306-1520,scan,419,423,MeasuredEntity
+S2213671113001306-1520,device,433,439,MeasuredEntity
+S2213671113001306-1520,Spectralis’,564,575,MeasuredEntity
+S2213671113001306-1520,device,732,738,MeasuredEntity
+S1359645413009816-2243,LEO 1525 field emission scanning electron microscope,69,121,MeasuredEntity
+S1359645413009816-2243,microscopy samples,296,314,MeasuredEntity
+S1389128612002496-6138,Rb,188,190,MeasuredEntity
+S0006322312001096-1197,indicators (or proxy measures),14,44,MeasuredEntity
+S0006322312001096-1197,General Health Questionnaire (GHQ),154,188,MeasuredEntity
+S0006322312001096-1197,response categories,376,395,MeasuredEntity
+S0006322312001096-1197,GHQ-symptom cases,525,542,MeasuredEntity
+S0006322312001096-1197,noncases,564,572,MeasuredEntity
+S0006322312001096-1197,GHQ caseness,702,714,MeasuredEntity
+S0006322312001096-1197,GHQ,884,887,MeasuredEntity
+S0006322312001096-1197,more recent validation,1056,1078,MeasuredEntity
+S0006322312001096-1197,subgroup of 274 participants,1087,1115,MeasuredEntity
+S0006322312001096-1197,GHQ symptom caseness,1174,1194,MeasuredEntity
+S0378383912000130-3755,beach,370,375,MeasuredEntity
+S0960148113004989-3327,one cycle,36,45,MeasuredEntity
+S0960148113004989-3327,simulation time,151,166,MeasuredEntity
+S0960148113004989-3327,distorted ∨ shapes,383,401,MeasuredEntity
+S2213671113000738-430,Teratoma formation,6,24,MeasuredEntity
+S0019103512003995-1283,empirical model of K10,99,121,MeasuredEntity
+S0925443913001385-1429,DMEM medium,40,51,MeasuredEntity
+S0950705113001895-23137,U ∪,64,67,MeasuredEntity
+S0950705113001895-23137,≠ f(x11,97,104,MeasuredEntity
+S0378112713005288-2062,"200,000 seeds",374,387,MeasuredEntity
+S0378112713005288-2062,5.9 million seeds,479,496,MeasuredEntity
+S1873506113001116-710,aggregates,92,102,MeasuredEntity
+S1873506113001116-710,BC1 cells cultured in E8 medium,198,229,MeasuredEntity
+S1873506113001116-710,13 passages,273,284,MeasuredEntity
+S1873506113001116-710,Flow cytometry plots,307,327,MeasuredEntity
+S1873506113001116-710,static suspension,390,407,MeasuredEntity
+S1873506113001116-710,Scale bars,613,623,MeasuredEntity
+S0378383913001567-2462,JONSWAP spectrum,41,57,MeasuredEntity
+S0378112713005288-2036,seed source,683,694,MeasuredEntity
+S0019103511004994-1399,Enceladus,0,9,MeasuredEntity
+S0019103511004994-1399,Saturn,49,55,MeasuredEntity
+S0019103511004994-1399,1RS,114,117,MeasuredEntity
+S0019103511004994-1399,Pioneer 11,500,510,MeasuredEntity
+S0019103511004994-1399,Voyager 1,519,528,MeasuredEntity
+S0019103511004994-1399,Voyager 2,540,549,MeasuredEntity
+S0019103511004994-1399,Cassini spacecraft,692,710,MeasuredEntity
+S2211124712002884-705,"microglia derived from control, sporadic, and PGRN S116X iPSCs",48,110,MeasuredEntity
+S2211124712002884-705,control lines,138,151,MeasuredEntity
+S0006322312001096-1202,CES-D,236,241,MeasuredEntity
+S0006322312001096-1202,four point scale,398,414,MeasuredEntity
+S0006322312001096-1202,total score,520,531,MeasuredEntity
+S0006322312001096-1202,defined as having CES-D depressive symptoms,580,623,MeasuredEntity
+S0006322312001096-1202,validation study,635,651,MeasuredEntity
+S0006322312001096-1202,structured psychiatric interview,784,816,MeasuredEntity
+S0016236113008041-3159,bed inventories,233,248,MeasuredEntity
+S2213671113000921-714,scale bar,63,72,MeasuredEntity
+S1161030113001950-923,classes,1129,1136,MeasuredEntity
+S1161030113001950-923,nutrient sufficiency recommendation system,1649,1691,MeasuredEntity
+S1161030113001950-923,soil test values,1812,1828,MeasuredEntity
+S0019103513005058-3154,Soluble sulfate,144,159,MeasuredEntity
+S0019103513005058-3154,soil,383,387,MeasuredEntity
+S0019103513005058-3154,perchlorate-sensitive electrode,724,755,MeasuredEntity
+S0019103513005058-3154,Viking 1 and Viking 2 landing sites,1667,1702,MeasuredEntity
+S0019103513005058-3154,martian meteorite EETA79001,1866,1893,MeasuredEntity
+S175058361300203X-1483,upper part,753,763,MeasuredEntity
+S175058361300203X-1483,channel sandstones,918,936,MeasuredEntity
+S175058361300203X-1483,high porosity sandstone layers,1230,1260,MeasuredEntity
+S0927775713009606-1216,diffractometer,68,82,MeasuredEntity
+S0927775713009606-1216,2θ,116,118,MeasuredEntity
+S0927775713009606-1216,step,191,195,MeasuredEntity
+S0927775713009606-1216,Scherrer equation,247,264,MeasuredEntity
+S0378383912000130-3601,experiments,334,345,MeasuredEntity
+S0378383912000130-3601,beach materials,359,374,MeasuredEntity
+S0378383912000130-3601,reservoir,521,530,MeasuredEntity
+S0378383912000130-3601,beach,586,591,MeasuredEntity
+S0378383912000130-3601,beach,640,645,MeasuredEntity
+S0378383912000130-3601,water,658,663,MeasuredEntity
+S0378383912000130-3601,groundwater,721,732,MeasuredEntity
+S0378383912000130-3601,beach,908,913,MeasuredEntity
+S0960148113004989-3258,third scenario,18,32,MeasuredEntity
+S0960148113004989-3258,iterations,254,264,MeasuredEntity
+S0960148113004989-3258,gradient evaluations,269,289,MeasuredEntity
+S0960148113004989-3258,functional evaluations,294,316,MeasuredEntity
+S0960148113004989-3258,optimised farm layout,323,344,MeasuredEntity
+S0960148113004989-3258,increase,387,395,MeasuredEntity
+S0960148113004989-3258,initial layout,419,433,MeasuredEntity
+S0006322312001096-1205,participants,33,45,MeasuredEntity
+S0927024813002961-1051,main contributors,804,821,MeasuredEntity
+S0927024813002961-1051,effects,971,978,MeasuredEntity
+S0927024813002961-1051,performance variations,1161,1183,MeasuredEntity
+S0927024813002961-1051,different devices,1654,1671,MeasuredEntity
+S0012821X12004384-1265,palynology samples,14,32,MeasuredEntity
+S0012821X12004384-1265,total material processed,527,551,MeasuredEntity
+S0012821X12004384-1265,dried sediment,601,615,MeasuredEntity
+S0012821X12004384-1265,dried sediment,699,713,MeasuredEntity
+S0012821X12004384-1265,>250 μm fractions,1116,1133,MeasuredEntity
+S0012821X12004384-1265,dried sediment,1306,1320,MeasuredEntity
+S0012821X12004384-1265,sieve,1363,1368,MeasuredEntity
+S095741741101342X-726,AR comparison,0,13,MeasuredEntity
+S0038071712001010-944,mycorrhizal growth response,193,220,MeasuredEntity
+S0019103512004009-4350,C3 model,493,501,MeasuredEntity
+S0019103512004009-4350,C3 model,549,557,MeasuredEntity
+S0012821X12004384-1640,Paleocene–Eocene boundary section,102,135,MeasuredEntity
+S0012821X12004384-1640,Enhanced halocline stratification and terrigenous input,422,477,MeasuredEntity
+S0012821X12004384-1640,location,1202,1210,MeasuredEntity
+S0006322312001096-1194,risk,234,238,MeasuredEntity
+S0006322312001096-1194,confidence interval [CI],253,277,MeasuredEntity
+S0006322312001096-1194,stroke risk score-incident stroke association,297,342,MeasuredEntity
+S0006322312001096-1194,CI,357,359,MeasuredEntity
+S0006322312001096-1194,CHD risk score-incident CHD association,379,418,MeasuredEntity
+S0006322312001096-1194,CVD,474,477,MeasuredEntity
+S0006322312001096-1194,CHD,505,508,MeasuredEntity
+S0006322312001096-1194,CI,524,526,MeasuredEntity
+S0006322312001096-1194,CI,552,554,MeasuredEntity
+S1389128612002496-6119,Tb,191,193,MeasuredEntity
+S1389128612002496-6119,Tb,314,316,MeasuredEntity
+S0378383911001669-1634,water,118,123,MeasuredEntity
+S0378383911001669-1634,lens,355,359,MeasuredEntity
+S0378383911001669-1634,beach,442,447,MeasuredEntity
+S0927024813001955-679,film,21,25,MeasuredEntity
+S0927024813001955-679,AALD ZnO layers,261,276,MeasuredEntity
+S0927024813001955-679,performance,605,616,MeasuredEntity
+S0019103512003995-2737,"stellar XUV flux, or the corresponding alternative heat source",29,91,MeasuredEntity
+S0019103512003995-2737,mean temperature,165,181,MeasuredEntity
+S0019103512003995-2737,mass,793,797,MeasuredEntity
+S0019103512003995-2737,planet’s mass,863,876,MeasuredEntity
+S0019103512003995-2737,solar average on HD209458b,997,1023,MeasuredEntity
+S2213671113000908-640,cells,74,79,MeasuredEntity
+S0378383911001669-1088,Depth time-series and depth-averaged bed-parallel velocity time-series,0,70,MeasuredEntity
+S0378383911001669-1088,sand-rough beach,101,117,MeasuredEntity
+S0378383911001669-1088,individual events,135,152,MeasuredEntity
+S2213671113000921-994,expanded and screened by Southern blotting for homologous recombination events,384,462,MeasuredEntity
+S2213671113000921-994,clones,476,482,MeasuredEntity
+S2213671113000921-994,clones,698,704,MeasuredEntity
+S2213671113000921-994,hSOX2-23,1443,1451,MeasuredEntity
+S2213671113000921-994,GFP+ cells,1558,1568,MeasuredEntity
+S0016236113008041-3012,oxy-combustion pilot plant,55,81,MeasuredEntity
+S0016236113008041-3012,elemental Hg,140,152,MeasuredEntity
+S0016236113008041-3012,Cl,199,201,MeasuredEntity
+S0019103512001388-1070,H-band slit-viewing VLT images,0,30,MeasuredEntity
+S0019103512001388-1070,deeper BS2 feature,523,541,MeasuredEntity
+S0168945213001805-4454,study,357,362,MeasuredEntity
+S0168945213001805-4454,deciduous forest,368,384,MeasuredEntity
+S0168945213001805-4454,free-air enrichment by supplementary CO2 in field plots,495,550,MeasuredEntity
+S2213671113000908-810,resulting DE population,705,728,MeasuredEntity
+S0019103511004994-996,parameter a,275,286,MeasuredEntity
+S0019103511004994-996,upstream velocity,348,365,MeasuredEntity
+S0950705113001895-23699,inserting ratio,536,551,MeasuredEntity
+S0950705113001895-23699,inserting ratio,705,720,MeasuredEntity
+S0950705113001895-23699,inserting ratio,785,800,MeasuredEntity
+S0378383911001669-1112,measurement locations,29,50,MeasuredEntity
+S0378383911001669-1112,beaches,146,153,MeasuredEntity
+S1367912013002277-1213,collected particles,195,214,MeasuredEntity
+S0012821X13002185-994,Oi1,91,94,MeasuredEntity
+S0012821X13002185-994,primary production,381,399,MeasuredEntity
+S0012821X13002185-994,diatom δ30Si,908,920,MeasuredEntity
+S0012821X13002185-994,sponge δ30Si,1094,1106,MeasuredEntity
+S0012821X13002185-994,Intermediate depth silicic acid concentration,1252,1297,MeasuredEntity
+S016412121300188X-4937,coherent clusters,562,579,MeasuredEntity
+S016412121300188X-4937,code,632,636,MeasuredEntity
+S016412121300188X-4937,code,675,679,MeasuredEntity
+S2213158213000582-1340,bandpass filter,36,51,MeasuredEntity
+S2213158213000582-1340,VESTAL analyses,65,80,MeasuredEntity
+S2213158213000582-1340,gradiometer data using VESTAL,264,293,MeasuredEntity
+S2213158213000582-1340,magnetometer data using VESTAL,374,404,MeasuredEntity
+S2213158213000582-1340,gradiometer data,516,532,MeasuredEntity
+S2213158213000582-1340,magnetometer data,561,578,MeasuredEntity
+S016412121300188X-4545,largest clusters of acct,42,66,MeasuredEntity
+S016412121300188X-4545,cluster,424,431,MeasuredEntity
+S016412121300188X-4545,clusters,475,483,MeasuredEntity
+S016412121300188X-4545,rest of the clusters,568,588,MeasuredEntity
+S0019103512003533-3306,Saturn,206,212,MeasuredEntity
+S0016236113008041-2924,trace elements,66,80,MeasuredEntity
